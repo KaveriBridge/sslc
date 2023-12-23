@@ -17,6 +17,18 @@
 | पार्थः | अर्जुनः|
 | ज्ञानी|पण्डितः|
 
+#### Words
+* वेदव्यासः (Vedavyāsaḥ) - Vyasa (author of the Mahabharata)
+* महाभारतम् (Mahābhāratam) - Mahabharata
+* भगवद्गीता (Bhagavadgītā) - Bhagavad Gita
+* भीष्मपर्वणि (Bhīṣmaparvaṇi) - Bhishma Parva
+* श्रीकृष्णः (Śrīkṛṣṇaḥ) - Sri Krishna
+* गीताचार्यः (Gītācāryaḥ) - Teacher of the Gita
+* पार्थः (Pārthaḥ) - Arjuna
+* अर्जुनः (Arjunaḥ) - Arjuna
+* ज्ञानी (Jñānī) - Wise person/Knower
+* पण्डितः (Paṇḍitaḥ) - Learned one/Scholar
+
 ### सूक्तिपीयूषम्‌ 
 |#|A|B|
 |-|-|-|
