@@ -31,7 +31,7 @@
 | 27            | शिक्षा        | Education           | विद्या                   | Knowledge                    |
 | 28            | सन्तः          | Saints              | सज्जनाः                | Gentlemen                  |
 | 29            | वसनम्        | Clothing            | वस्त्रम्                  | Garment                      |
-| 30            | नदी           | River               | नहरः                    | Stream                       |
+| 30            | नदी           | River               | ?||
 | 31            | शैलः          | Mountain            | पर्वतः                  | Hill                         |
 | 32            | भाषा          | Language            | वाचा                     | Speech                       |
 |*|सरोवरः |lake|सरः |lake|
