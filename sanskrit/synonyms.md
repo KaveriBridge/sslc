@@ -1,4 +1,4 @@
-# Synonyms
+# Synonyms पर्यायपद
 
 | Serial Number | Sanskrit Word | English Translation | Synonym Sanskrit Word | Synonym English Translation |
 |---------------|---------------|---------------------|------------------------|-----------------------------|
