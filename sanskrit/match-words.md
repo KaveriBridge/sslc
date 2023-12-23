@@ -12,22 +12,15 @@
 |#| अ |आ|
 |-|-|-|
 |1.| वेदव्यासः |महाभारतम्|
+|1.| Vedavyasa |Mahabharata|
 |2.| भगवद्गीता| भीष्मपर्वणि|
+|2.| Bhagavad Gita| Bhishmaparvani|
 |3.| श्रीकृष्णः| गीताचार्यः|
+|3.| Sri Krishna:| Teacher of the Gita|
 |4.| पार्थः | अर्जुनः|
+|4.| Pārthaḥ | Arjuna|
 |5.| ज्ञानी|पण्डितः|
-
-#### Words
-* वेदव्यासः (Vedavyāsaḥ) - Vyasa (author of the Mahabharata)
-* महाभारतम् (Mahābhāratam) - Mahabharata
-* भगवद्गीता (Bhagavadgītā) - Bhagavad Gita
-* भीष्मपर्वणि (Bhīṣmaparvaṇi) - Bhishma Parva
-* श्रीकृष्णः (Śrīkṛṣṇaḥ) - Sri Krishna
-* गीताचार्यः (Gītācāryaḥ) - Teacher of the Gita
-* पार्थः (Pārthaḥ) - Arjuna
-* अर्जुनः (Arjunaḥ) - Arjuna
-* ज्ञानी (Jñānī) - Wise person/Knower
-* पण्डितः (Paṇḍitaḥ) - Learned one/Scholar
+|5.| Wise person |Scholar|
 
 ### सूक्तिपीयूषम्‌ 
 |#|A|B|
