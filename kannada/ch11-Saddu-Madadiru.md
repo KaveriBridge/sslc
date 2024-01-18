@@ -12,30 +12,38 @@
 
 # ಇ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ## ೧. ಸದ್ದು ಮಾಡದೆ ಬಾಳಬೇಕು ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ಹೋಲಿಕೆಗಳಾವುವು?
-* ತಟ್ಟೆಯ ಕರ್ಪೂರ ಮೌನದಲಿ ಕರಗುವಂತೆ,
-* As the camphor of the plate dissolves in silence,
-* ಹಡಗು ಬಂದರನ್ನು ಶಾಂತ ರೀತಿಯಿಂದ ಸೇರುವಂತೆ,
-* As the ship approaches the harbor in a calm manner,
-* ದೀಪದೆದುರಿಗೆ ಕತ್ತಲು ಸರಿಯುವಂತೆ,
-* Like darkness before a lamp,
-* ನಾವು ಶಾಂತಿಯಿಂದ, ಸಹನೆಯಿಂದ ನಮ್ಮ ಕರ್ತವ್ಯವನ್ನು ಮುಗಿಸಬೇಕೆಂದು ಕವಿಯು ಕರೆ ನೀಡಿದ್ದಾರೆ.
-* The poet calls us to finish our duty with peace and patience.
-* ಇವು ಸದ್ದು ಮಾಡದೆ ಬಾಳಬೇಕು ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ಹೋಲಿಕೆಗಳು.
-* These are similes given by the poet to live without noise.
+* ತಟ್ಟೆಯ ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
+* The camphor of the plate dissolves silently.
+* ದೀಪದೆದುರಿಗೆ ಕತ್ತಲು ನಿಶ್ಶಬ್ಧವಾಗಿ ಸರಿಯುತ್ತದೆ. 
+* Darkness moves silently towards the lamp.
+* ರವಿಕಿರಣಗಳಿಗೆ ಇಬ್ಬನಿ ಕರಗಿ ನೀರಾಗುತ್ತದೆ. 
+* Dew melts into water due to sun rays.
+* ಯಾವುದೇ ಶಬ್ದ ಮಾಡದೇ ಹಡಗು ರೇವನ್ನು ಸೇರುತ್ತದೆ. 
+* The ship joins the harbor without making a sound.
+* ಹಾಗೆಯೇ ಮಾನವ ಸದ್ದು ಗದ್ದಲವಿಲ್ಲದೆ ಬಾಳಬೇಕು ಎ೦ದು ಕವಿಗಳು ತಿಳಿಸುತ್ತಾರೆ.
+* Similarly, poets say that human beings should live without noise.
 
 ## ೨. ಕೂಗಾಟದ ಬದುಕು ನಿಷ್ಪ್ರಯೋಜಕ ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ನಿದರ್ಶನಗಳಾವುವು?
 * ಹಸಿಸೌದೆ ಬುಸುಗುಟ್ಟುವಂತೆ ಬದುಕಬಾರದು.
 * Don't live like the crackling wet wood.
 * ಕೂಗಾಡಿ ಹಾರಡಿ  ಪ್ರಯೋಜನವಿಲ್ಲ.
 * Shouting and jumping is of no use.
+* ಸಿಡಿಮದ್ದಿಗೆ ಒ೦ದೇ ಒ೦ದು ಕಿಡಿ ಸೋಕಿದ ತಕ್ಷಣ ಅದು ಶಬ್ದ ಮಾಡಿ ಸಿಡಿದೆಳೆಸುವ೦ತೆ. 
+* As soon as a single spark hits the explosive, it makes a noise and explodes.
+* ಇದರಿ೦ದ ನಷ್ಟವೇ ಹೊರತು ಲಾಭವಿಲ್ಲ. 
+* There is no gain but loss.
+* ಆದ್ದರಿ೦ದ ಸಿಡುಕು ಮಿಡುಕನ್ನು ತೊರೆದು ಮೌನವಾಗಿರಬೇಕೆ೦ದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
+* Therefore, the poet said that you should leave the anger and be silent.
 
 ## ೩. ಕರ್ಪೂರದ ಕೆಲಸವೇನು? ಅದು ತನ್ನ ಕೆಲಸವನ್ನು ಹೇಗೆ ಪೂರೈಸುತ್ತದೆ?
-* ಕರ್ಪೂರ ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಪರಿಮಳ ಮತ್ತು ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.
+* ತಟ್ಟೆಯಲ್ಲಿರುವ ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
+* The camphor on the plate melts silently.
+* ಇದು ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಪರಿಮಳ ಮತ್ತು ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.
 * It gives fragrance and light in less time.
-* ಅದರ ದೀಪದ ಎದುರಲ್ಲಿ ಅಂಧಕಾರ ಸರಿದುಹೋಗುತ್ತದೆ.
-* In front of its light, the darkness recedes.
-* ಅದು ಶಾಂತಿಯಿಂದ ಬದುಕಿ ಮೌನವಾಗಿ ಕರಗಿ ತನ್ನ ಕರ್ತವ್ಯವನ್ನು ಮುಗಿಸುತಿದೆ.
-* It lives in peace and dissolves in silence and completes its duty.
+* ದೇವರಿಗೆ ಆರತಿ, ಪೂಜೆಗೆ ಸಹಾಯವನ್ನು ಮಾಡುತ್ತದೆ.
+* It helps to give Aarti and to do pooja to God.
+* ಬೆ೦ಕಿಯಲ್ಲಿ ಉರಿದು ತಾನು ಕರಗಿದರೂ ಶಬ್ದವನ್ನು ಮಾಡದೇ ಬೆಳಕನ್ನು ನೀಡಿ ತನ್ನ ಕೆಲಸವನ್ನು ಮೌನವಾಗಿ ಪೂರೈಸುತ್ತದೆ.
+* Even if it melts in a fire, it gives light without making a sound and performs its work silently.
 
 ## ೪. ಮಾನವನ ಬದುಕು ಕರ್ಪೂರದಂತೆ ಇರಬೇಕು ಏಕೆ?
 * ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
@@ -56,13 +64,19 @@
 
 # ಉ) ಸಂದರ್ಭದೊಡನೆ ವಿವರಿಸಿರಿ.
 ## ೧. ಶಾಂತಿಯಲಿ ಬದುಕಿ ನೀ ಕರ್ತವ್ಯವನು ಮುಗಿಸು.
-* ಈ ವಾಕ್ಯವನ್ನು ಸಿ.ಪಿ.ಕೆ. ಅವರ "ಬೊಗಸೆ" ಕವನ ಸಂಕಲನದ “ಸದ್ದು ಮಾಡದಿರು" ಪದ್ಯದಿಂದ ಆರಿಸಲಾಗಿದೆ.
+* Same asnwer as the second question.
 
 ## ೨. ಸಿಡುಕು ಮಿಡುಕನು ತೊರೆದು ಮೌನಿಯಾಗು
-* ಈ ವಾಕ್ಯವನ್ನು ಸಿ.ಪಿ.ಕೆ. ಅವರ "ಬೊಗಸೆ" ಕವನ ಸಂಕಲನದ “ಸದ್ದು ಮಾಡದಿರು" ಪದ್ಯದಿಂದ ಆರಿಸಲಾಗಿದೆ.
+* ಈ ವಾಕ್ಯವನ್ನು **ಸಿ.ಪಿ.ಕೆ.** ಅವರ **"ಬೊಗಸೆ"** **ಕವನ ಸಂಕಲನದ** **“ಸದ್ದು ಮಾಡದಿರು"** ಪದ್ಯದಿಂದ ಆರಿಸಲಾಗಿದೆ.
+* This sentence is selected from the poem **"Don't make noise"** in **poetry collection** **"ಬೊಗಸೆ"** by **C.P.K.**.
 * ಕವಿ ಮಾನವನ ಬದುಕನ್ನು ಕುರಿತು ಈ ಮಾತನ್ನು ಹೇಳಿದ್ದಾರೆ.
-* ಮಾನವ ತನ್ನ ಅಹಂಕಾರವನ್ನು ತೊರೆದು ಕತ್ತಲೆಯು ದೀಪದ ಎದುರು ಮೌನವಾಗಿ ಮಾಯವಾಗುವಂತೆ, ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುವಂತೆ, ರವಿಯ ಕಿರಣಗಳಿಗೆ ಕರಗುವ ಇಬ್ಬನಿಯ ರೀತಿಯಲ್ಲಿ ಮಾನವನು ಸಿಡುಕು ಮಿಡುಕನು ತೊರೆದು ಮೌನಿಯಾಗಬೇಕು.
-* ತನ್ನದಾದ ಕರ್ತವ್ಯಗಳನ್ನು ಶಾಂತರೀತಿಯಿಂದ ಮಾಡಿ ಮುಗಿಸಬೇಕು ಎಂದು ಹೇಳಿದ ಮಾತಿನಲ್ಲಿ ಜೀವನದ ಮೌಲ್ಯಗಳು ಸ್ವಾರಸ್ಯಕವಾಗಿ ಮೂಡಿ ಬಂದಿವೆ.
+* The poet has said this about human life.
+* ಮಾನವ ತನ್ನ ಅಹಂಕಾರವನ್ನು ತೊರೆಯಬೇಕು . 
+* Man should leave his ego.
+* ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುವಂತೆ, ರವಿಯ ಕಿರಣಗಳಿಗೆ ಕರಗುವ ಇಬ್ಬನಿಯ ರೀತಿಯಲ್ಲಿ, ಮಾನವನು ಸಿಡುಕು ಮಿಡುಕನು ತೊರೆದು ಮೌನಿಯಾಗಬೇಕು.
+* As camphor melts in silence, as dew melts in the rays of the sun, so man should leave his anger and become silent.
+* ತನ್ನ ಕರ್ತವ್ಯಗಳನ್ನು ಶಾಂತಿಯಿಂದ ಮಾಡಿ ಮುಗಿಸಬೇಕು ಎ೦ದು ಕವಿಗಳು ತಿಳಿಸುತ್ತಾರೆ.
+* The poets say that one should finish his duties in peace.
 
 # Poem
 <pre>
