@@ -1,4 +1,17 @@
 ## Bodhivrukshada Hadu
+<pre>
+ಏಕಾಂಗಿ ವೀರನಂತೆ ಮಧ್ಯರಾತ್ರಿ ಎದ್ದನು
+Like a hero, the lonely man woke up in the midnight.
+
+ಮಡದಿ ಮಗುವ ತೊರೆದನವನು ಅಡವಿ ದಾರಿ ಹಿಡಿದನು
+Leaving wife and child, he took the route to the forest.
+
+ಅರಮನೆಯ ಮೋಹವನ್ನು ಹರಿದುಹಾಕಿ ಹೋದನು
+He tore away the charm of the palace and left.
+
+ಗೊತ್ತು ಗುರಿಯು ಇಲ್ಲದಂತೆ ಕತ್ತಲಲ್ಲಿ ನಡೆದನು
+As if there is no known goal, he walked in the dark.
+</pre>
 
 ## ಸವಿಚೈತ್ರ
 <pre>
