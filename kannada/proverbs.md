@@ -43,13 +43,15 @@
 ### ಮೂರ್ತಿ ಚಿಕ್ಕದಾದರೂ ಕೀರ್ತಿ ದೊಡ್ಡದು 
 ### Kannada
 * ನಾವು ಜನರನ್ನು ಅವರ ಎತ್ತರ ಅಥವಾ ಗಾತ್ರದಿಂದ ನಿರ್ಣಯಿಸಬಾರದು.
-* ಪ್ರಕೃತಿಯಲ್ಲಿನ ಅನೇಕ ಸಣ್ಣ ಜೀವಿಗಳು ಪ್ರಮುಖ ಪಾತ್ರಗಳನ್ನು ವಹಿಸುತ್ತವೆ, ಮತ್ತು ಸಣ್ಣ ಮಾನವರು ಸಹ ದೊಡ್ಡದನ್ನು ಸಾಧಿಸಬಹುದು.
+* ಪ್ರಕೃತಿಯಲ್ಲಿನ ಅನೇಕ ಸಣ್ಣ ಜೀವಿಗಳು ಪ್ರಮುಖ ಪಾತ್ರಗಳನ್ನು ವಹಿಸುತ್ತವೆ.
+* ಸಣ್ಣ ಮಾನವರು ಸಹ ದೊಡ್ಡದನ್ನು ಸಾಧಿಸಬಹುದು.
 * ಉದಾಹರಣೆಗೆ ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್, ಅಬ್ದುಲ್ ಕಲಾಂ ಮತ್ತು ಲಾಲ್ ಬಹದ್ದೂರ್ ಶಾಸ್ತ್ರಿ.
 * ವಿಷ್ಣುವಿನ ಅವತಾರವಾದ ವಾಮನನು ಚಿಕ್ಕವನಾಗಿದ್ದರೂ ಪರಾಕ್ರಮಶಾಲಿಯಾಗಿದ್ದನು.
 * ಇಚ್ಛೆ, ವಿಶ್ವಾಸ, ನಂಬಿಕೆ ಮತ್ತು ಸಂಕಲ್ಪದಿಂದ ಎಲ್ಲವೂ ಸಾಧ್ಯ.
 ### English
 * We should not judge people by their height or size.
-* Many small creatures in nature play important roles, and small humans can achieve great things as well.
+* Many small creatures in nature play important roles
+* Small humans can achieve great things as well.
 * Examples include Sachin Tendulkar, Abdul Kalam, and Lal Bahadur Shastri.
 * Even Vamana, the avatar of Vishnu, was small but mighty.
 * With will, confidence, faith, and determination, anything is possible.
