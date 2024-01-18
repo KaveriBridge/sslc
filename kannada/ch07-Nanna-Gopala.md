@@ -174,24 +174,34 @@
 <pre>
 * ಈ ಮೇಲಿನ ವಾಕ್ಯವನ್ನು ಕುವೆಂಪು ಅವರು ಬರೆದಿರುವ "ನನ್ನ ಗೋಪಾಲ' ಎಂಬ ನಾಟಕದಿಂದ ಆಯ್ದ "ನನ್ನ ಗೋಪಾಲ' ಎಂಬ ಗದ್ಯಪಾಠದಿಂದ ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.
 * This sentence is taken from the prose called "Nanna Gopala" which is from a play called "Nanna Gopala" written by Kuvempu.
+
 * ಗೋಪಾಲನು ಹೇಳುವ ಮಾತು ಇದು. 
 * This is what Gopal says.
+
 * ಸಂಜೆಯ ಸಮಯದಲ್ಲಿ ಶಾಲೆಯಿಂದ ಮರಳುವಾಗ ಕಾಡಿನಲ್ಲಿ ಒಬ್ಬನಿಗೇ ಭಯವಾಗುತ್ತಿತ್ತು. 
 * While returning from school in the evening, I used to be afraid of being alone in the forest.
+
 * ಆಗ ಅವನಿಗೆ ಅಮ್ಮನು ಹೇಳಿದ ಮಾತು ನೆನಪಾಯಿತು. 
 * Then he remembered what his mother had said.
+
 * ಕಾಡಿನಲ್ಲಿ ಬನದ ಗೋಪಾಲನಿರುತ್ತಾನೆ. 
 * There is an Banada Gopal in the forest.
+
 * ಅವನು ನಿನ್ನ ಅಣ್ಣ,  ಭಯವಾದಾಗ ಅವನನ್ನು ಕರೆ ಎಂದು ಹೇಳಿದ್ದಳು. 
 * He is your brother, call him when you are scared.
+
 * ಅದರಂತೆ ಅವನು “ಅಣ್ಣಾ ಎಲ್ಲಿದ್ದೀಯಾ” ಎಂದು ಮೂರು-ನಾಲ್ಕು ಬಾರಿ ಕರೆದ. 
 * Accordingly, he called "Anna, where are you?" three or four times.
+
 * ಬನದ ಗೋಪಾಲನು ಬರಲಿಲ್ಲ. 
 * Banada Gopala did not come.
+
 * ಆದರು ಅಣ್ಣ ಬರುತ್ತಾನೆಂಬ ನಂಬಿಕೆಯಿತು.
 * Even then, he believed that Anna would come.
+
 * ಗೋಪಾಲನಿಗೆ ಅಮ್ಮನ ಮಾತಿನ ಮೇಲೆ ಭರವಸೆಯಿತ್ತು. 
 * Gopal had hope on Amma's words.
+
 * ಮುಗ್ಧ ಮಕ್ಕಳಿಗೆ ತಾಯಿಯ ಮಾತಿನಲ್ಲಿ ಸಿಗುವ ಭರವಸೆ ಗೋಪಾಲನ ಈ ಮಾತಿನಲ್ಲಿ ವ್ಯಕ್ತವಾಗಿದೆ.
 * The hope that innocent children get from their mother's words is expressed in this speech of Gopal.
 </pre>
