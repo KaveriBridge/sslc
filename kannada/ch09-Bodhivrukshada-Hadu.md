@@ -1,42 +1,43 @@
-# ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
-## (1) ೧. ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯನ್ನು ಕವಿ ಎಂತಹ ಕಥೆಯೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ?
+# ಬೋಧಿವೃಕ್ಷದ-ಹಾಡು
+## ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
+### (1) ೧. ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯನ್ನು ಕವಿ ಎಂತಹ ಕಥೆಯೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ?
 * (1) 1. What kind of story has the poet described Pari as Siddhartha Buddha?
 * ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯನ್ನು ಕವಿ **ಯುದ್ಧ ಬಿಟ್ಟು ಪ್ರೀತಿ ಕೊಟ್ಟ** ಕಥೆಯೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ.
 * Siddhartha Buddha's Pari has been described by the poet as a story of **gave up war and gave love**.
 
-## (2) ೨. ಸಿದ್ಧಾರ್ಥ ಯಾರ ಹಾಗೂ ಯಾವುದರ ಮೋಹವನ್ನು ತೊರೆದನು?
+### (2) ೨. ಸಿದ್ಧಾರ್ಥ ಯಾರ ಹಾಗೂ ಯಾವುದರ ಮೋಹವನ್ನು ತೊರೆದನು?
 * 2. Who and what did Siddhartha leave his ಮೋಹ of?
 * ಸಿದ್ಧಾರ್ಥ **ಮಡದಿ, ಮಗು ಮತ್ತು ಅರಮನೆ** ಮೋಹವನ್ನು ತೊರೆದನು.
 * Siddhartha left the ಮೋಹ of **wife, child and palace**
 
-## (3) ೩. ಕಾಡನ್ನು ಅಲೆದ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಹೊಳೆದುದ್ದೇನು?
+### (3) ೩. ಕಾಡನ್ನು ಅಲೆದ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಹೊಳೆದುದ್ದೇನು?
 * 3. What struck Siddhartha who wandered the forest?
 * ಕಾಡನ್ನು ಅಲೆದ ಸಿದ್ದಾರ್ಥನಿಗೆ **ನಾಡಿನ ಅರ್ಥ** ಹೊಳೆಯಿತು.
 * As Siddhartha wandered the forest, **the meaning of the land** dawned on him.
 
-## (4) ೪. ಸಿದ್ಧಾರ್ಥನು ಕಾಡಿನಿಂದ ನಾಡಿನತ್ತ ಏಕೆ ಹೊರಟನು?
+### (4) ೪. ಸಿದ್ಧಾರ್ಥನು ಕಾಡಿನಿಂದ ನಾಡಿನತ್ತ ಏಕೆ ಹೊರಟನು?
 * 4. Why did Siddhartha leave the forest for the country?
 * ಸಿದ್ಧಾರ್ಥನು **ತಪಸ್ಸಿಗಿಂತ ಜೀವಪ್ರೀತಿ ದೊಡ್ಡದೆಂದು ತಿಳಿದು ಪ್ರೀತಿಯನ್ನು ಹುಡುಕಿಕೊಂಡು** ನಾಡಿನತ್ತ ಹೊರಟನು.
 * Siddhartha **Knowing that the love of life is greater than penance** in search of love** left for the land.
 
-## (5) ೫. ಸಿದ್ಧಾರ್ಥನು ಕಂಡುಕೊಂಡ ಬದುಕಿನ ಗೂಢಾರ್ಥವೇನು?
+### (5) ೫. ಸಿದ್ಧಾರ್ಥನು ಕಂಡುಕೊಂಡ ಬದುಕಿನ ಗೂಢಾರ್ಥವೇನು?
 * 5. What is the secret of life that Siddhartha found?
 * ಸಿದ್ಧಾರ್ಥನು ಕಂಡುಕೊಂಡ ಬದುಕಿನ ಗೂಢಾರ್ಥ **ತಪಸಿಗಿಂತ ಜೀವಪ್ರೀತಿ ದೊಡ್ಡದೆಂದು**.
 * The secret of life that Siddhartha found **love of life is greater than penance**.
 
-## (6) ೬. ಬೋಧಿವೃಕ್ಷದ ಹಾಡು ಯಾರ ಜೀವನವನ್ನು ಕುರಿತು ತಿಳಿಸುತ್ತದೆ?
+### (6) ೬. ಬೋಧಿವೃಕ್ಷದ ಹಾಡು ಯಾರ ಜೀವನವನ್ನು ಕುರಿತು ತಿಳಿಸುತ್ತದೆ?
 * 6. Whose life does the Bodhi tree song tell about?
 * ಬೋಧಿವೃಕ್ಷದ ಹಾಡು **ಬುದ್ಧನ** ಜೀವನವನ್ನು ಕುರಿತು ತಿಳಿಸುತ್ತದೆ.
 * The Song of the Bodhi Tree tells about the life of the **Buddha**.
 
-## (7) ೭. ಬುದ್ಧನು ಅರಿತುಕೊಂಡ ಬದುಕಿನ ಸತ್ಯವೇನು? 
+### (7) ೭. ಬುದ್ಧನು ಅರಿತುಕೊಂಡ ಬದುಕಿನ ಸತ್ಯವೇನು? 
 * 7. What is the truth of life that Buddha realized?
 * **ತಪಸಿಗಿಂತ ಜೀವಪ್ರೀತಿ ದೊಡ್ಡದೆಂದು** ಬುದ್ಧನು ಅರಿತುಕೊಂಡನು.
 * Buddha realized that **love of life is greater than penance**.
 
 
-# ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
-## (1) ೧. ಸಿದ್ಧಾರ್ಥನಿಗೆ ನಾಡಿನ ಅರ್ಥ ತಿಳಿದ ಸಂದರ್ಭವನ್ನು ಕವಿ ಏನೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ?
+## ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
+### (1) ೧. ಸಿದ್ಧಾರ್ಥನಿಗೆ ನಾಡಿನ ಅರ್ಥ ತಿಳಿದ ಸಂದರ್ಭವನ್ನು ಕವಿ ಏನೆಂದು ಬಣ್ಣಿಸಿದ್ದಾರೆ?
 * What has the poet described as the occasion when Siddhartha came to know the meaning of ನಾಡು?
 <pre>
 ಕಾಡು ಕಾಡನ್ನು ಅಲೆದ ಸಿದ್ದಾರ್ಥನಿಗೆ ನಾಡಿನ ಅರ್ಥ ತಿಳಿಯಿತು.
@@ -56,7 +57,7 @@ In this way, the poet has described that the realized the fact that love of life
 
 </pre>
 
-## (2) ೨. ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಡಿನ ತುಂಬ ಪ್ರೀತಿ ಹೇಗೆ ತುಂಬಿಕೊಂಡಿತು?
+### (2) ೨. ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಡಿನ ತುಂಬ ಪ್ರೀತಿ ಹೇಗೆ ತುಂಬಿಕೊಂಡಿತು?
 <pre>
 ಸಿದ್ಧಾರ್ಥನು ಬುದ್ಧನಾದಾಗ ಕೋಗಿಲೆಯ ಹಾಡು ದೂರದಿಂದ ಕೇಳುತ್ತಿತ್ತು.
 When Siddhartha became a Buddha, the song of the cuckoo could be heard from afar.
@@ -84,20 +85,20 @@ Like this, the wild stream of love flowed like a stream in the forest.
 
 </pre>
 
-# ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು  ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
-## (1) ೧. ಸಿದ್ಧಾರ್ಥನು ಬುದ್ಧನಾದ ಪರಿ ಹೇಗೆ?
+## ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು  ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
+### (1) ೧. ಸಿದ್ಧಾರ್ಥನು ಬುದ್ಧನಾದ ಪರಿ ಹೇಗೆ?
 *
 
-## (2) ೨. ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಸಂದರ್ಭದಲ್ಲಿ ಪ್ರಕೃತಿ ಕವಿಗೆ ಹೇಗೆ ಕಂಡುಬಂದಿತು?
+### (2) ೨. ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಸಂದರ್ಭದಲ್ಲಿ ಪ್ರಕೃತಿ ಕವಿಗೆ ಹೇಗೆ ಕಂಡುಬಂದಿತು?
 *
 
-# ಸಂದರ್ಭದೊಂದಿಗೆ ವಿವರಿಸಿ
+## ಸಂದರ್ಭದೊಂದಿಗೆ ವಿವರಿಸಿ
 <pre>
 ಬಸವರಾಜ ಸಬರದ ಅವರು ಬರೆದ 'ಬೋಧಿವೃಕ್ಷದ ಹಾಡು' ಕವನದಿಂದ ಈ ವಾಕ್ಯವನ್ನು ಆರಿಸಲಾಗಿದೆ.
 This sentence is selected from the poem 'Song of the Bodhi Tree' written by Basavaraja Sabarada.
 </pre>
 
-## (1) ೧. ಗೊತ್ತು ಗುರಿ ಇಲ್ಲದೆ ಕತ್ತಲಲ್ಲಿ ನಡೆದನು.
+### (1) ೧. ಗೊತ್ತು ಗುರಿ ಇಲ್ಲದೆ ಕತ್ತಲಲ್ಲಿ ನಡೆದನು.
 <pre>
 ಸಿದ್ಧಾರ್ಥನು ತನ್ನ ಮನೆಯಿಂದ ಹೊರಡುವ ಸಂದರ್ಭದಲ್ಲಿ ಕವಿ ಹೀಗೆ ಹೇಳಿದ್ದಾರೆ. 
 The poet says this while Siddhartha leaves his house.
@@ -111,7 +112,7 @@ He sets out for the forest to find the meaning of life.
 * ಈ ವಾಕ್ಯವನ್ನು ಬಸವರಾಜ ಸಬರದ ಅವರು ಬರೆದ. "ಪದಕಟ್ಟಿ ಹಾಡೇನ' ಎಂಬ ಕವನ ಸಂಕಲನದ "ಬೋಧಿವೃಕ್ಹದ ಹಾಡು' ಎಂಬ ಕವನದಿಂದ ಆರಿಸಿದೆ.
 * ಸಿದ್ದಾರ್ಥನು ಗೃಹಸ್ಥ ಜೀವನವನ್ನು ತ್ಯಜಿಸಿ ಹೋಗುವ ಸಂದರ್ಭದಲ್ಲಿ ಈ ಮಾತುಬಂದಿದೆ. ಲೌಕಿಕ ಸುಖಭೋಗಗಳಿಂದ ಜೀವನದ ಗುರಿಯನ್ನು ಸಾಧಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂಬುದನ್ನು ಅರಿತ ಸಿದ್ಧಾರ್ಥನು, ದೃಢವಾದ ನಿರ್ಧಾರ ಮಾಡಿ ಮಡದಿ ಮಗುವನ್ನು ತೊರೆದು ಅಡವಿಯ ದಾರಿಯನ್ನು ಹಿಡಿದನು. ಅರಮನೆಯ ಮೋಹವನ್ನು ಹರಿದು ಹಾಕಿದನು. ಯಾವ ಬಂಧನವೂ ಇಲ್ಲದೆ ಗುರಿಯ ಸಾಧನೆಗಾಗಿ, ಕತ್ತಲಲ್ಲಿ ಬೆಳಕನ್ನು ಹುಡುಕುತ್ತ ಹೊರಟನು ಎಂಬುದು ಈ ವಾಕ್ಯದ ಸ್ವಾರಸ್ಯ.
 
-## (2) ೨. ಕಾಡತುಂಬ ಪ್ರೀತಿ ಹೊಳೆಯು ಕೋಡಿಯಂತೆ ಹರಿಯಿತು
+### (2) ೨. ಕಾಡತುಂಬ ಪ್ರೀತಿ ಹೊಳೆಯು ಕೋಡಿಯಂತೆ ಹರಿಯಿತು
 <pre>
 ಸಿದ್ಧಾರ್ಥನಿಗೆ ಜ್ಞಾನೋದಯವಾದಾಗ ಕಾಡಿನಲ್ಲಿ ಪ್ರೀತಿ ತುಂಬಿದಂತೆ ಭಾಸವಾಯಿತು.
 When Siddhartha became enlightened, it felt like the forest is full of love.
@@ -120,7 +121,7 @@ When Siddhartha became enlightened, it felt like the forest is full of love.
 The poet has said this in the that context.
 </pre>
 
-## (3) ೩. ಪ್ರೀತಿಯನ್ನು ಹುಡುಕಿಕೊಂಡು ಜನರ ಕಡೆಗೆ ಬಂದನು.
+### (3) ೩. ಪ್ರೀತಿಯನ್ನು ಹುಡುಕಿಕೊಂಡು ಜನರ ಕಡೆಗೆ ಬಂದನು.
 <pre>
 ಸಿದ್ಧಾರ್ಥನು ಬುದ್ಧನಾದ ನಂತರ ತಪಸ್ಸಿಗಿಂತ ಜೀವನಪ್ರೀತಿ ಮುಖ್ಯ ಎಂದು ಅರಿತುಕೊಂಡ.
 After Siddhartha became buddha he realized that love of life is more important than penance.
@@ -132,8 +133,7 @@ He then leaves the forest and starts walking towards the people.
 The poet has said this in the that context.
 </pre>
 
-#  ಬೋಧಿವೃಕ್ಷದ ಹಾಡು
-# Poem
+## Poem
 <pre>
 ಸಿದ್ಧಾರ್ಥ ಬುದ್ಧನಾದ ಪರಿಯ ನೀವು ತಿಳಿಯಿರೆ
 ಯುದ್ಧ ಬಿಟ್ಟು ಪ್ರೀತಿ ಕೊಟ್ಟ ಕಥೆಯ ನೀವು ಕೇಳಿರೆ || ಪ ||
@@ -214,7 +214,7 @@ He learnt that love of life is greater than penance
 He came as a Buddha who understood the mystery of life
 </pre>
 
-# Kavi Parichaya
+## Kavi Parichaya
 |Item | Details|In English|
 |-|-|-|
 |Name |ಡಾ. ಬಸವರಾಜ ಸಬರ|Dr. Basavaraja Sabara|
