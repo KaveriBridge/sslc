@@ -28,6 +28,23 @@ As if there is no known goal, he walked in the dark.
 ಎಲ್ಲರೆದೆಗಳ (everyone's hearts)  ತುಂಬ ಸವಿಚೈತ್ರವು (Sweet Chaitra month)
 </pre>
 
+## Guri
+<pre>
+ಒಂದು ಬಾಣಕೆ ಗುರಿಯು ಹಲವಿರುವುದುಂಟೆ?
+ಒಂದು ಬಾಣಕೆ (for an arrow)  ಗುರಿಯು (destination) ಹಲವು (several) ಇರುವುದು (existence) ಉಂಟೆ? (will there be?)
+One arrow has many targets?
+
+ಒಂದು ದೇಹದೊಳಾತ್ಮವೆರಡಿರುವುದುಂಟೆ?
+Two souls in one body?
+ದೇಹದೊಳು (in the body) ಆತ್ಮ (soul) ಎರಡು (two) ಇರುವುದು (existence) ಉಂಟೆ? (will there be?)
+  
+ಒಂದು ಜೀವನಕೇಕೆ ಹಲವು ಸಾಧ್ಯಗಳು?
+One life so many possibilities?
+    
+ಒಂದೆ ಹೆಗ್ಗುರಿಗೆ ಹೋರಾಡು ಹಗಲಿರುಳು.
+Fight day and night for a ಹೆಗ್ಗುರಿ (superior goal)
+
+</pre>
 ## Vachanagalu
 <pre>
 ನೀರ ಕಂಡಲ್ಲಿ ಮುಳುಗುವರಯ್ಯ
