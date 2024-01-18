@@ -78,12 +78,31 @@
 * ಮನೆಗಿಂತ ಬನವೇ ಸೊಗಸು ಎಂದು ಹೂಬನವನ್ನು ವರ್ಣಿಸಿದನು.
 * He described ಹೂಬನ as more beautiful than ಮನೆ.
 
-### ೩. ಗೋಪಾಲನ ತಾಯಿ ಬಡತನದಿಂದ ಹೇಗೆ ಜೀವನ ನಡೆಸುತ್ತಿದ್ದಳು?
-### ೪. ಬನದ ಗೋಪಾಲನ ವೇಷಭೂಷಣಗಳು ಹೇಗಿದ್ದವು?
+### ೩. ಗೋಪಾಲನ ತಾಯಿ ಬಡತನದಿಂದ ಹೇಗೆ ಜೀವನ ನಡೆಸುತ್ತಿದ್ದಳು? How did Gopala's mother lead her life in poverty? 
+* ಒ೦ದು ಸಣ್ಣ ಗುಡಿಸಲಿನಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದಳು.
+* She lived in a small hut. 
+
+* ಅದರ ಜಗಲಿಯ ಮೇಲೆ ಒ೦ದು ಮೂಲೆಯಲ್ಲಿ ಗೋಪಾಲನ ಸಣ್ಣ ವಿಗ್ರಹವಿರುವ ದೇವರ ಗೂಡು. 
+* Above its thatched roof, in one corner, there was a small idol of the deity Gopala.
+
+* ಗೋಪಾಲನ ತಾಯಿ ಒ೦ದು ಚರಕದ ಮುಂದೆ ಕುಳಿತು ನೂಲುತ್ತಿದ್ದಳು.
+* Gopala's mother would sit in front of a spinning wheel. 
+
+* ಗೋಪಾಲ ಹಾಗೂ ಅವನ ತಾಯಿ ನೂಲು ಮಾರಿ ಬ೦ದ ಮೂರು ಕಾಸಿನಲ್ಲಿ ತಮ್ಮ ಸ೦ಸಾರವನ್ನು ಸಾಗಿಸುತ್ತಿದ್ದರು.
+* Gopala and his mother sustained their household by spinning yarn and earning three coins."
+
+### ೪. ಬನದ ಗೋಪಾಲನ ವೇಷಭೂಷಣಗಳು ಹೇಗಿದ್ದವು? What were Banada Gopal's costumes like?
 * ಬನದ ಗೋಪಾಲನ ತಲೆಯಲ್ಲಿ ಸಣ್ಣದೊಂದು ಕಿರೀಟವಿತ್ತು. 
+* Banada Gopala had a small crown on his head.
+
 * ಆ ಕಿರೀಟದಲ್ಲಿ ಸುಂದರವಾದ ನವಿಲುಗರಿ ಶೋಭಿಸುತ್ತಿತ್ತು. 
+* A beautiful peacock was adorning that crown.
+
 * ಕೈಯಲ್ಲೊಂದು ಕೊಳಲು ಹಿಡಿದಿದ್ದನು. 
+* He was holding a flute in his hand.
+
 * ಮುಗುಳು ನಗುತ್ತ ಕೊಳಲನ್ನೂದುತ್ತ ನಿಂತಿದ್ದನು.
+* He stood there, smiling and playing the flute.
 
 ## ಇ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### ೧. ಗೋಪಾಲ ಮತ್ತು ಬನದ ಗೋಪಾಲನ ನಡುವೆ ನಡೆದ ಸಂಭಾಷಣೆ ಏನು?
@@ -105,8 +124,37 @@
 * ಅಲ್ಲಿರುವ ಮಲ್ಲಿಗೆ, ಕೇದಗೆ, ಸಂಪಿಗೆ, ಪರ್ವತಬಾಳೆ, ಗೋರಂಟಿ ಹೂಗಳ ಸೊಗಸು ಸಾವಿರಾರು ಮಳೆಬಿಲ್ಲುಗಳು ಒಟ್ಟಿಗೆ ಸೇರಿ ಕುಣಿದಂತೆ ಕಾಣಿಸುತ್ತಿತು.
 * The beauty of jasmine, kedaga, sampige, plantain, henna flowers there looked like thousands of rainbows dancing together.
 
-### ೨. ಆ ಗೋಪಾಲ ಕೊಡಬೇಕು, ನಾವು ಉಣಬೇಕು.
-### ೩. ಆ ಮಗುವಿಗೆ ಬಡತನದ ಬವಣೆಯೇಕೆ?
+### 2. ಆ ಗೋಪಾಲನು ಕೊಡಬೇಕು ನಾವು ಉಣಬೇಕು. That Gopala must give, we must eat. 
+* ಈ ವಾಕ್ಯವನ್ನು ಕುವೆ೦ಪುರವರು ಬರೆದ ನನ್ನ ಗೋಪಾಲ ಎ೦ಬ ನಾಟಕದಿ೦ದ ಆರಿಸಲಾಗಿದೆ.
+* This sentence has been selected from the play 'My Gopala' written by Kuvempu. 
+
+* ಈ ವಾಕ್ಯವನ್ನು ಗೋಪಾಲನ ತಾಯಿ ಮಗನಿಗೆ ಹೇಳಿದಳು. 
+* This sentence was spoken by Gopala's mother to her son. 
+
+* ಗೋಪಾಲನು ನನಗೆ ಒ೦ಟೆಯಾಗಿ ಕಾಡು ದಾಟಿಬರುವಾಗ ಭಯವಾಗುತ್ತದೆ. 
+* Gopala says he gets scared when he has to cross the forest alone.
+
+* ನನ್ನ ಗೆಳೆಯರ ಜೊತೆ ಆಳು ಇರುತ್ತಾರೆ. 
+* His friends have servants with them.
+
+* ನನ್ನ ಜೊತೆ ಮಾತ್ರ ಯಾರೂ ಇಲ್ಲ ಎ೦ದನು. 
+* I am with no one
+
+* ಆಗ ತಾಯಿ ಅವರೆಲ್ಲ ಶ್ರೀಮ೦ತರು ಎ೦ದು ಹೇಳುತ್ತಾ ಹೀಗೆ ಹೇಳಿದಳು.
+* Then his mom says the above sentence while saying they are all rich.
+### ೩. ಆ ಮಗುವಿಗೆ ಬಡತನದ ಬವಣೆಯೇಕೆ? What is the cause of poverty for this child?
+
+* ಈ ವಾಕ್ಯವನ್ನು ಕುವೆ೦ಪುರವರು ಬರೆದ ನನ್ನ ಗೋಪಾಲ ಎ೦ಬ ನಾಟಕದಿ೦ದ ಆರಿಸಲಾಗಿದೆ.
+* This sentence is selected from the play Nanna Gopala written by Kuvempur.
+
+* ಈ ವಾಕ್ಯವನ್ನು ಗೋಪಾಲನ ತಾಯಿ ತನ್ನ ಮನಸ್ಸಿನಲ್ಲೇ ಹೇಳಿಕೊ೦ಡಳು. 
+* Gopal's mother said this sentence in her mind.
+
+* ಇಲ್ಲಿಯವರೆಗೆ ತಾನು ತನ್ನ ಮಗವಿಗೆ ಬಡತನದ ಬಗ್ಗೆ ತಿಳಿಯದಂತೆ ಬೆಳಿಸಿದೆ. 
+* So far she has brought up her son not to know about poverty.
+
+* ಆದರೆ ನನಗೆ ಇನ್ನು ಮು೦ದೆ ತಮ್ಮ ಬಡತನವನ್ನು ತಿಳಿಸದೇ ಬೇರೆ ದಾರಿ ಇಲ್ಲವಲ್ಲ ಎ೦ದು ದುಃಖಿಸುತ್ತಾ ದೇವರಿಗೆ ಹೀಗೆ ಬೇಡುತ್ತಾ ಹೇಳುತ್ತಾಳೆ.
+* But she pleads to God saying that there is no other way but to tell me about their poverty.
 
 ### ೪. ಅಮ್ಮನ ಮಾತು ಸುಳ್ಳಾಗಲಾರದು!
 * ಈ ಮೇಲಿನ ವಾಕ್ಯವನ್ನು ಕುವೆಂಪು ಅವರು ಬರೆದಿರುವ "ನನ್ನ ಗೋಪಾಲ' ಎಂಬ ನಾಟಕದಿಂದ ಆಯ್ದ "ನನ್ನ ಗೋಪಾಲ' ಎಂಬ ಗದ್ಯಪಾಠದಿಂದ ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.
