@@ -26,6 +26,7 @@
 
 ## ಆ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### ೧. ಮಲಗಿದ್ದ ಗೋಪಾಲನನ್ನು ತಾಯಿಯು ಯಾವ ಮಾತುಗಳಿಂದ ಏಳಿಸಿದಳು? With what words did the mother wake up Gopal who was sleeping?
+<pre>
 * ಗೋಪಾಲ, ಬೆಳಗಾಯ್ತು, ಮೇಲೇಳು;
 * Gopala, Its morning, get up;
 
@@ -43,8 +44,9 @@
 
 * ಗುರುಗಳು ಏನು ಅಂದಾರು ? ಎಂದು ಗೋಪಾಲನ ತಾಯಿ ಮಲಗಿದ್ದ ಗೋಪಾಲನನ್ನು ಏಳಿಸಿದಳು.
 * What will the Guru say? Gopal's mother woke up the sleeping Gopal.
-
+</pre>
 ### ೨. ಗೋಪಾಲನು ಹೂಬನದ ಸೊಗಸನ್ನು ಯಾವ ರೀತಿ ವರ್ಣಿಸಿದನು? How did Gopala describe the beauty of the flowers in the forest?
+<pre>
 * ಬನದಲ್ಲಿ ಏನು ಸೊಗಸು! 
 * What beauty in the forest!
 
@@ -77,8 +79,9 @@
 
 * ಮನೆಗಿಂತ ಬನವೇ ಸೊಗಸು ಎಂದು ಹೂಬನವನ್ನು ವರ್ಣಿಸಿದನು.
 * He described ಹೂಬನ as more beautiful than ಮನೆ.
-
+</pre>
 ### ೩. ಗೋಪಾಲನ ತಾಯಿ ಬಡತನದಿಂದ ಹೇಗೆ ಜೀವನ ನಡೆಸುತ್ತಿದ್ದಳು? How did Gopala's mother lead her life in poverty? 
+<pre>
 * ಒ೦ದು ಸಣ್ಣ ಗುಡಿಸಲಿನಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದಳು.
 * She lived in a small hut. 
 
@@ -90,8 +93,9 @@
 
 * ಗೋಪಾಲ ಹಾಗೂ ಅವನ ತಾಯಿ ನೂಲು ಮಾರಿ ಬ೦ದ ಮೂರು ಕಾಸಿನಲ್ಲಿ ತಮ್ಮ ಸ೦ಸಾರವನ್ನು ಸಾಗಿಸುತ್ತಿದ್ದರು.
 * Gopala and his mother sustained their household by spinning yarn and earning three coins."
-
+</pre>
 ### ೪. ಬನದ ಗೋಪಾಲನ ವೇಷಭೂಷಣಗಳು ಹೇಗಿದ್ದವು? What were Banada Gopal's costumes like?
+<pre>
 * ಬನದ ಗೋಪಾಲನ ತಲೆಯಲ್ಲಿ ಸಣ್ಣದೊಂದು ಕಿರೀಟವಿತ್ತು. 
 * Banada Gopala had a small crown on his head.
 
@@ -103,7 +107,7 @@
 
 * ಮುಗುಳು ನಗುತ್ತ ಕೊಳಲನ್ನೂದುತ್ತ ನಿಂತಿದ್ದನು.
 * He stood there, smiling and playing the flute.
-
+</pre>
 ## ಇ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### ೧. ಗೋಪಾಲ ಮತ್ತು ಬನದ ಗೋಪಾಲನ ನಡುವೆ ನಡೆದ ಸಂಭಾಷಣೆ ಏನು?
 ### ೨. ಗೋಪಾಲನು ತನ್ನ ತಾಯಿಯೊಂದಿಗೆ ನಡೆಸಿದ ಸಂಭಾಷಣೆಯ ಸಾರವೇನು?
@@ -113,18 +117,25 @@
 
 ## ಈ) ಸಂದರ್ಭದೊಂದಿಗೆ ವಿವರಿಸಿರಿ.
 ### ೧. ಸಾವಿರಾರು ಮಳೆಬಿಲ್ಲುಗಳು ಸೇರಿ ಕುಣಿದಂತೆ ತೋರುತ್ತಿತ್ತು.
+<pre>
 * ಈ ಮೇಲಿನ ವಾಕ್ಯವನ್ನು ಕುವೆಂಪು ಅವರು ಬರೆದಿರುವ "ನನ್ನ ಗೋಪಾಲ' ಎಂಬ ನಾಟಕದಿಂದ ಆಯ್ದ "ನನ್ನ ಗೋಪಾಲ' ಎಂಬ ಗದ್ಯಪಾಠದಿಂದ ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.
 * This sentence is taken from the prose called "Nanna Gopala" which is from a play called "Nanna Gopala" written by Kuvempu.
+
 * ಈ ಮಾತನ್ನು ಗೋಪಾಲನು ತನ್ನ ತಾಯಿಗೆ ಹೇಳುತ್ತಾನೆ.
 * Gopal says this to his mother.
+
 * ದೇವರ ಪೂಜೆಗೆ ಹೂಗಳನ್ನು ತರಲು ಹೋದ ಗೋಪಾಲನು ಆ ಬನದ ಸೊಗಸನ್ನು ತನ್ನ ತಾಯಿಯ ಬಳಿ ವರ್ಣಿಸುತ್ತಾನೆ. 
 * Gopal, who went to bring flowers for the worship of God, describes the beauty of that flower to his mother.
+
 * ಅಲ್ಲಿನ ಸೌಂದರ್ಯವನ್ನು ವರ್ಣಿಸುವಾಗ ಈ ಮಾತು ಬಂದಿವೆ. 
 * These words came while describing the beauty there.
+
 * ಅಲ್ಲಿರುವ ಮಲ್ಲಿಗೆ, ಕೇದಗೆ, ಸಂಪಿಗೆ, ಪರ್ವತಬಾಳೆ, ಗೋರಂಟಿ ಹೂಗಳ ಸೊಗಸು ಸಾವಿರಾರು ಮಳೆಬಿಲ್ಲುಗಳು ಒಟ್ಟಿಗೆ ಸೇರಿ ಕುಣಿದಂತೆ ಕಾಣಿಸುತ್ತಿತು.
 * The beauty of jasmine, kedaga, sampige, plantain, henna flowers there looked like thousands of rainbows dancing together.
+</pre>
 
 ### 2. ಆ ಗೋಪಾಲನು ಕೊಡಬೇಕು ನಾವು ಉಣಬೇಕು. That Gopala must give, we must eat. 
+<pre>
 * ಈ ವಾಕ್ಯವನ್ನು ಕುವೆ೦ಪುರವರು ಬರೆದ ನನ್ನ ಗೋಪಾಲ ಎ೦ಬ ನಾಟಕದಿ೦ದ ಆರಿಸಲಾಗಿದೆ.
 * This sentence has been selected from the play 'My Gopala' written by Kuvempu. 
 
@@ -142,8 +153,10 @@
 
 * ಆಗ ತಾಯಿ ಅವರೆಲ್ಲ ಶ್ರೀಮ೦ತರು ಎ೦ದು ಹೇಳುತ್ತಾ ಹೀಗೆ ಹೇಳಿದಳು.
 * Then his mom says the above sentence while saying they are all rich.
-### ೩. ಆ ಮಗುವಿಗೆ ಬಡತನದ ಬವಣೆಯೇಕೆ? What is the cause of poverty for this child?
+</pre>
 
+### ೩. ಆ ಮಗುವಿಗೆ ಬಡತನದ ಬವಣೆಯೇಕೆ? What is the cause of poverty for this child?
+<pre>
 * ಈ ವಾಕ್ಯವನ್ನು ಕುವೆ೦ಪುರವರು ಬರೆದ ನನ್ನ ಗೋಪಾಲ ಎ೦ಬ ನಾಟಕದಿ೦ದ ಆರಿಸಲಾಗಿದೆ.
 * This sentence is selected from the play Nanna Gopala written by Kuvempur.
 
@@ -155,8 +168,10 @@
 
 * ಆದರೆ ನನಗೆ ಇನ್ನು ಮು೦ದೆ ತಮ್ಮ ಬಡತನವನ್ನು ತಿಳಿಸದೇ ಬೇರೆ ದಾರಿ ಇಲ್ಲವಲ್ಲ ಎ೦ದು ದುಃಖಿಸುತ್ತಾ ದೇವರಿಗೆ ಹೀಗೆ ಬೇಡುತ್ತಾ ಹೇಳುತ್ತಾಳೆ.
 * But she pleads to God saying that there is no other way but to tell me about their poverty.
+</pre>
 
 ### ೪. ಅಮ್ಮನ ಮಾತು ಸುಳ್ಳಾಗಲಾರದು!
+<pre>
 * ಈ ಮೇಲಿನ ವಾಕ್ಯವನ್ನು ಕುವೆಂಪು ಅವರು ಬರೆದಿರುವ "ನನ್ನ ಗೋಪಾಲ' ಎಂಬ ನಾಟಕದಿಂದ ಆಯ್ದ "ನನ್ನ ಗೋಪಾಲ' ಎಂಬ ಗದ್ಯಪಾಠದಿಂದ ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.
 * This sentence is taken from the prose called "Nanna Gopala" which is from a play called "Nanna Gopala" written by Kuvempu.
 * ಗೋಪಾಲನು ಹೇಳುವ ಮಾತು ಇದು. 
@@ -179,6 +194,7 @@
 * Gopal had hope on Amma's words.
 * ಮುಗ್ಧ ಮಕ್ಕಳಿಗೆ ತಾಯಿಯ ಮಾತಿನಲ್ಲಿ ಸಿಗುವ ಭರವಸೆ ಗೋಪಾಲನ ಈ ಮಾತಿನಲ್ಲಿ ವ್ಯಕ್ತವಾಗಿದೆ.
 * The hope that innocent children get from their mother's words is expressed in this speech of Gopal.
+</pre>
 # I. ಕೃತಿಕಾರರ ಪರಿಚಯ
 ### Details
 |Item | Details| In English|
