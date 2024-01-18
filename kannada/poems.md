@@ -27,3 +27,16 @@ As if there is no known goal, he walked in the dark.
 ಎಲ್ಲರೆದೆಗಳ ತುಂಬ ಸವಿಚೈತ್ರವು.
 ಎಲ್ಲರೆದೆಗಳ (everyone's hearts)  ತುಂಬ ಸವಿಚೈತ್ರವು (Sweet Chaitra month)
 </pre>
+
+## Vachanagalu
+<pre>
+ನೀರ ಕಂಡಲ್ಲಿ ಮುಳುಗುವರಯ್ಯ
+
+ಮರನ ಕಂಡಲ್ಲಿ ಸುತ್ತುವರಯ್ಯ
+
+ಬತ್ತುವ ಜಲವ ಒಣಗುವ ಮರನ 
+ಬತ್ತುವ ಜಲವ (water that will eventually dry)  ಒಣಗುವ ಮರನ  (tree that will eventually dry/die)
+  
+ಮೆಚ್ಚಿದವರು ನಿಮ್ಮನ್ನೆತ್ತ ಬಲ್ಲರು ಕೂಡಲಸಂಗಮದೇವ.
+ಮೆಚ್ಚಿದವರು (those who like) ನಿಮ್ಮನ್ನೆತ್ತ ಬಲ್ಲರು (where do they know you) ಕೂಡಲಸಂಗಮದೇವ.
+</pre>
