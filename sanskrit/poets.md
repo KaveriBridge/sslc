@@ -33,16 +33,16 @@
 
 
 ## डा. बा. श्री. रामकृष्णराव्
-* कविः - डा. बा. श्री. रामकृष्णराव् ।
-* देशः - बासूरु, तरिकेरे, चिक्कमंगलूरुमण्डलम्, कर्णाटकम्।
-* कालः - क्रि.श. 1952 तः 2007 ।
-* कृतयः- पद्यमणिमाला, गद्यरत्नमञ्जूषा, हास्यमधुबिन्दवः, तिलाेत्तमा, रसहृदयतन्त्रम्, गद्यलेखावली, विदुरनीतिः, चाणक्यनीतिः इत्यादयः।
-
-## Dr. Ba. Sri. Ramakrishna Rao.
-* Poet: - Dr. Ba. Sri. Ramakrishna Rao.
-* Country - Basuru, Tarikere, Chikkamangalore district, Karnataka.
-* Period: - AD. 1952 to 2007
-* Works: Padyamanimala, Gadyaratnamanjusha, Hasyamadhubinduva, Tilaettama, Rasahridaya Tantra, Gadyalekhavali, Vidura Niti, Chanakya Niti, etc.
+|Poet|Ramakrishna Rao|
+|-|-|
+| कविः| डा. बा. श्री. रामकृष्णराव् 
+| Poet | Dr. B. Shri. Ramakrishna Rao 
+| देशः | बासूरु, तरिकेरे, चिक्कमंगलूरुमण्डलम्, कर्णाटकम् 
+| Country | Basuru, Tarikere, Chikkamagaluru Mandalam, Karnataka 
+| कालः | क्रि.श. 1952 तः 2007 
+| Time | 1952 AD to 2007 AD 
+| कृतयः| पद्यमणिमाला, गद्यरत्नमञ्जूषा, हास्यमधुबिन्दवः, तिलाेत्तमा, रसहृदयतन्त्रम्, गद्यलेखावली, विदुरनीतिः, चाणक्यनीतिः इत्यादयः
+| Works | Padyamanimala, Gadyaratnamanjusha, Hasyamadhubindava, Tilottama, Rasahridayatantram, Gadyalekhavali, Viduraniti, Chanakyaniti, etc. |
 
 ## वेदव्यासः
 |Poet| Veda Vyasa|
