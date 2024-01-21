@@ -1,35 +1,25 @@
 ## Poets
-|Poet|Kalidasa||
-|-|-|-|
-|कविः|कालिदासः|भाेजराजः
-|देशः|जन्मस्थानं काश्मीरः, वासस्थानम् उज्जयिनी |मालवदेशः
-|Country|Birthplace Kashmir, residence Ujjain |Malava
-|कालः|क्रिस्ताब्दः प्रथमं चतुर्थं पञ्चमं वा  शतकम्|एकादशशतकम्
-|Time|First, fourth or fifth century AD|Eleventh century
-|कृतयः|महाकाव्यद्वयम् -<br>1. रघुवंशम्  <br>2. कुमारसम्भवम् <br> खण्डकाव्यद्वयम् - <br>1. ऋतुसंहारः <br>2. मेघदूतम्  <br> नाटकानि - <br>1. अभिज्ञानशाकुन्तलम्  <br>2. मालविकाग्निमित्रम् <br>3. विक्रमाेर्वशीयम्|चाणक्यनीतिः, <br>तत्त्वप्रकाशः,  <br>सिद्धान्तसङ्ग्रहः, <br>समराङ्गणसूत्रधारः, <br>सुभाषितप्रबन्धः,  <br>शब्दानुशासनम्, <br>चम्पूरामायणम् इत्यादयः |
-|Works|Two Epics -<br>1 Raghuvansham <br>2. Kumarasambhavam <br> Two volumes of poems - <br>1. Ritusamhara <br>2. Meghdootam <br> Plays - <br>1. Abhijnana Shakuntala <br>2. Malavikagnimitra <br>3. Vikramaervashiyam| Chanakya Niti, <br>Tattva Prakasha, <br>Siddhanta Sangraha, <br>Samarangana Sutradhara, <br>Subhashita Prabandha, <br>Shabdanushasana, <br>Champoo Ramayana etc. |
+|Poet|Kalidasa|
+|-|-|
+|कविः|कालिदासः|
+|देशः|जन्मस्थानं काश्मीरः <br> वासस्थानम् उज्जयिनीः|
+|Country|Birthplace Kashmir <br> residence Ujjain |
+|कालः|क्रिस्ताब्दः प्रथमं चतुर्थं पञ्चमं वा  शतकम्|
+|Time|First, fourth or fifth century AD|
+|कृतयः|महाकाव्यद्वयम् -<br>1. रघुवंशम्  <br>2. कुमारसम्भवम् <br> खण्डकाव्यद्वयम् - <br>1. ऋतुसंहारः <br>2. मेघदूतम्  <br> नाटकानि - <br>1. अभिज्ञानशाकुन्तलम्  <br>2. मालविकाग्निमित्रम् <br>3. विक्रमाेर्वशीयम्|
+|Works|Two Epics -<br>1 Raghuvansham <br>2. Kumarasambhavam <br> Two volumes of poems - <br>1. Ritusamhara <br>2. Meghdootam <br> Plays - <br>1. Abhijnana Shakuntala <br>2. Malavikagnimitra <br>3. Vikramaervashiyam|
 
 ## भाेजराजः
-|Item|Description|
+|Poet|Bhoja Rajah|
 |-|-|
-| कविः | भाेजराजः |
-|ಕವಿಃ | ಭೋಜರಾಜಃ |
-| देशः | मालव देशः |
-| ದೇಶಃ | ಮಾಲವ ದೇಶಃ |
-| कालः | एकादश शतकम् |
-| ಕಾಲಃ | ಏಕಾದಶ ಶತಕಮ್ |
-| कृतयः| चाणक्यनीतिः, तत्त्वप्रकाशः,  सिद्धान्तसङ्ग्रहः, समराङ्गणसूत्रधारः, सुभाषितप्रबन्धः,  शब्दानुशासनम्, चम्पूरामायणम् इत्यादयः |
-| ಕೃತಯಃ| ಚಾಣಕ್ಯನೀತಿಃ, ತತ್ತ್ವಪ್ರಕಾಶಃ, ಸಿದ್ಧಾಂತಸಂಗ್ರಹಃ, ಸಮರಾಙ್ಗಣಸೂತ್ರಧಾರಃ, ಸುಭಾಷಿತಪ್ರಬಂಧಃ, ಶಬ್ದಾನುಶಾಸನಮ್, ಚಂಪೂರಾಮಾಯಣಮ್ ಇತ್ಯಾದಯಃ |
-|-|चाणक्य नीतिः|
-|-|ಚಾಣಕ್ಯ ನೀತಿಃ|
-|-|तत्त्व प्रकाशः|
-|-|ತತ್ತ್ವ ಪ್ರಕಾಶಃ|
-|-|सिद्धान्त सङ्ग्रहः|
-|-|ಸಿದ್ಧಾಂತ ಸಂಗ್ರಹಃ|
-|-|सुभाषित प्रबन्धः|
-|-|ಸುಭಾಷಿತ ಪ್ರಬಂಧಃ|
-|-|चम्पू रामायणम्|
-|-|ಚಂಪೂ ರಾಮಾಯಣಮ್|
+| कविः ಕವಿಃ| भाेजराजः ಭೋಜರಾಜಃ|
+| देशः ದೇಶಃ | मालव देशः ಮಾಲವ ದೇಶಃ |
+| कालः ಕಾಲಃ |  एकादश शतकम् ಏಕಾದಶ ಶತಕಮ್ |
+| कृतयः ಕೃತಯಃ|चाणक्य नीतिः ಚಾಣಕ್ಯ ನೀತಿಃ| 
+||तत्त्व प्रकाशः ತತ್ತ್ವ ಪ್ರಕಾಶಃ|
+||सिद्धान्त सङ्ग्रहः ಸಿದ್ಧಾಂತ ಸಂಗ್ರಹಃ|
+||सुभाषित प्रबन्धः ಸುಭಾಷಿತ ಪ್ರಬಂಧಃ|
+||चम्पू रामायणम् ಚಂಪೂ ರಾಮಾಯಣಮ್|
 
 
 ## डा. बा. श्री. रामकृष्णराव्
@@ -45,7 +35,7 @@
 * Works: Padyamanimala, Gadyaratnamanjusha, Hasyamadhubinduva, Tilaettama, Rasahridaya Tantra, Gadyalekhavali, Vidura Niti, Chanakya Niti, etc.
 
 ## वेदव्यासः
-|||
+|Poet| Veda Vyasa|
 |-|-|
 | कविः |महर्षिः वेदव्यासः |
 | The poet |Maharshi Vedavyasa |
@@ -57,13 +47,20 @@
 | Acts |1 Eighteen Puranas 2. Mahabharata 3. Brahma Sutras |
 
 ## भासः
-|||
+|Poet| Bhasah|
 |-|-|
-|कविः | भासः |
-|Poet: | Bhasaḥ |
-|कालः | क्रिस्तपूर्वं चतुर्थं पञ्चमं वा शतकम् |
+|कविः ಕವಿಃ| भासः ಭಾಸಃ|
+|कालः ಕಾಲಃ| क्रिस्तपूर्वं चतुर्थं पञ्चमं वा शतकम् <br> ಕ್ರಿಸ್ತಪೂರ್ವಂ ಚತುರ್ಥಂ ಪಞ್ಚಮಂ ವಾ ಶತಕಮ್ |
 |Time | Fourth or fifth century BC|
-|देशः | दक्षिणभारतम् |
+|देशः ದೇಶಃ| दक्षिणभारतम्  ದಕ್ಷಿಣಭಾರತಮ್ |
 |Country | South India |
-|कृतयः| कर्णभारम्, दूतवाक्यम्, अविमारकम्, पञ्चरात्रं चेत्यादीनि  चतुर्दशरूपकाणि |
-|Acts| Fourteen metaphors such as Karnabharam, Dutavakya, Avimaraka, Pancharatra and others|
+|कृतयः ಕೃತಯಃ| कर्णभारम् ಕರ್ಣಭಾರಮ್|
+|Works| Karnabharam
+||दूतवाक्यम् ದೂತವಾಕ್ಯಮ್
+||Dutavakya
+||अविमारकम्, ಅವಿಮಾರಕಮ್
+||Avimaraka
+||पञ्चरात्रं ಪಂಚರಾತ್ರಂ
+||Pancharatra
+||चेत्यादीनि  चतुर्दशरूपकाणि ಚೇತ್ಯಾದೀನಿ ಚತುರ್ದಶರೂಪಕಾಣಿ |
+
