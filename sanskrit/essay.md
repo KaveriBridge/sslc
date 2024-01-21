@@ -1,16 +1,16 @@
 ## (1) परिसरसंरक्षणम् (Environment Protection) (ಪರಿಸರಸಂರಕ್ಷಣಮ್)
 ### परिसरः  
-#### इयं भूमिः, वायुमण्डलं, नद्यः, पर्वताः इत्यादयः परिसरः इति कथ्यन्ते। 
-* ಇಯಂ ಭೂಮಿಃ, ವಾಯುಮಣ್ಡಲಂ, ನದ್ಯಃ, ಪರ್ವತಾಃ ಇತ್ಯಾದಯಃ ಪರಿಸರಃ ಇತಿ ಕಥ್ಯನ್ತೆ।
-* This land, the atmosphere, rivers, mountains, etc., are referred to as the environment.
+#### परिसरः भूमिः, वायुमण्डलं, नद्यः, पर्वताः इत्यादयः। 
+* ಪರಿಸರಂ ಭೂಮಿಃ, ವಾಯುಮಂಡಲಂ, ನದ್ಯಃ, ಪರ್ವತಾಃ ಇತ್ಯಾದಯಃ ।
+* The environment is land, atmosphere, rivers, mountains, etc.
 
 #### पूर्वम्‌ अयं परिसरः शुद्धः, प्रशान्तः, समृद्धः च आसीत्‌ । 
 * ಪೂರ್ವಮ್ ಅಯಂ ಪರಿಸರಃ ಶುದ್ಧಃ, ಪ್ರಶಾಂತಃ, ಸಮೃದ್ಧಃ ಚ ಆಸೀತ್ ।
-*Initially, this environment was pure, peaceful, and prosperous.
+* Initially, this environment was pure, peaceful, and prosperous.
   
 #### परन्तु इदानीं जनसंख्याबाहुल्यात्‌ नगरीकरणात्‌ परिसरमालिन्यं वर्धते ।
 * ಪರಂತು ಇದಾನೀಂ ಜನಸಂಖ್ಯಾಬಾಹುಲ್ಯಾತ್ ನಗರೀಕರಣಾತ್ ಪರಿಸರಮಾಲಿನ್ಯಂ ವರ್ಧತೆ ।
-*However, now due to the increase in population and urbanization, environmental pollution is growing.
+* However, now due to the increase in population and urbanization, environmental pollution is growing.
 
 ### परिसरसंरक्षणम्‌ (ಪರಿಸರಸಂರಕ್ಷಣಮ್‌:)(Environmental Conservation:)
 
