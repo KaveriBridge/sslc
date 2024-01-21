@@ -41,14 +41,14 @@
 | Country | Basuru, Tarikere, Chikkamagaluru Mandalam, Karnataka 
 | कालः | क्रि.श. 1952 तः 2007 
 | Time | 1952 AD to 2007 AD 
-| कृतयः ಕೃತಯಃ| पद्यमणिमाला ಪದ್ಯಮಣಿಮಾಲಾ Padyamanimala
-|| गद्यरत्नमञ्जूषा ಗದ್ಯರತ್ನಮಞ್ಜೂಷಾ Gadyaratnamanjusha
-|| हास्यमधुबिन्दवः ಹಾಸ್ಯಮಧುಬಿನ್ದವಃ Hasyamadhubindava
+| कृतयः ಕೃತಯಃ| पद्य मणि माला ಪದ್ಯ ಮಣಿ ಮಾಲಾ Padya mani mala
+|| गद्य रत्न मञ्जूषा ಗದ್ಯ ರತ್ನ ಮಞ್ಜೂಷಾ Gadya ratna manjusha
+|| हास्य मधुबिन्दवः ಹಾಸ್ಯ ಮಧುಬಿನ್ದವಃ Hasyamadhubindava
 || तिलाेत्तमा ತಿಲಾೆತ್ತಮಾ Tilottama
 || रसहृदयतन्त्रम् ರಸಹೃದಯತನ್ತ್ರಮ್ Rasahridayatantram
-|| गद्यलेखावली ಗದ್ಯಲೇಖಾವಲೀ Gadyalekhavali
-|| विदुरनीतिः ವಿದುರನೀತಿಃ Viduraniti
-|| चाणक्यनीतिः इत्यादयः ಚಾಣಕ್ಯನೀತಿಃ ಇತ್ಯಾದಯಃ Chanakyaniti, etc.
+|| गद्य लेखावली ಗದ್ಯ ಲೇಖಾವಲೀ Gadya lekhavali
+|| विदुर नीतिः ವಿದುರ ನೀತಿಃ Vidura niti
+|| चाणक्य नीतिः इत्यादयः ಚಾಣಕ್ಯನೀತಿಃ ಇತ್ಯಾದಯಃ Chanakya niti, etc.
 
 
 ## वेदव्यासः
