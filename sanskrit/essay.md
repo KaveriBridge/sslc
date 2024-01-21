@@ -1,36 +1,50 @@
 ## (1) परिसरसंरक्षणम् (Environment Protection) (ಪರಿಸರಸಂರಕ್ಷಣಮ್)
-#### वृक्षारोपणम् अधिकं कर्तव्यम् ।
-* Vriksharopanam adhikam kartavyam.
-* ವೃಕ್ಷಾರೋಪಣಮ್ ಅಧಿಕಂ ಕರ್ತವ್ಯಮ್ ।
-* More tree planting should be done.
-#### कृषिभूमिः आवासीयप्रयोजनाय परिवर्तनं न कर्तव्या।
-* Krishi bhoomih aavasiya prayojanaaya parivartanam na kartavya.
-* ಕೃಷಿಭೂಮಿಃ ಆವಾಸೀಯಪ್ರಯೋಜನಾಯ ಪರಿವರ್ತನಂ ನ ಕರ್ತವ್ಯಾ।
-* Agricultural land should not be converted for residential purposes.
-#### जलमालिन्यस्य वायुालिन्यस्य च नियन्त्रणं करणीयम् ।
-* Jalamalinyasya vaayu alinyasya cha niyantranam karaniiyam.
-* ಜಲಮಾಲಿನ್ಯಸ್ಯ ವಾಯುಾಲಿನ್ಯಸ್ಯ ಚ ನಿಯನ್ತ್ರಣಂ ಕರಣೀಯಮ್ ।
-* Water pollution and air pollution should be controlled.
-#### जनसंख्यास्फोटस्य नियन्त्रणं भवेत् ।
-* Janasankhyasphotasya niyantranam bhavet.
-* ಜನಸಂಖ್ಯಾಸ್ಫೋಟಸ್ಯ ನಿಯನ್ತ್ರಣಂ ಭವೇತ್ ।
+### परिसरः  
+#### इयं भूमिः, वायुमण्डलं, नद्यः, पर्वताः इत्यादयः परिसरः इति कथ्यन्ते। 
+* ಇಯಂ ಭೂಮಿಃ, ವಾಯುಮಣ್ಡಲಂ, ನದ್ಯಃ, ಪರ್ವತಾಃ ಇತ್ಯಾದಯಃ ಪರಿಸರಃ ಇತಿ ಕಥ್ಯನ್ತೆ।
+* This land, the atmosphere, rivers, mountains, etc., are referred to as the environment.
+
+#### पूर्वम्‌ अयं परिसरः शुद्धः, प्रशान्तः, समृद्धः च आसीत्‌ । 
+* ಪೂರ್ವಮ್ ಅಯಂ ಪರಿಸರಃ ಶುದ್ಧಃ, ಪ್ರಶಾಂತಃ, ಸಮೃದ್ಧಃ ಚ ಆಸೀತ್ ।
+*Initially, this environment was pure, peaceful, and prosperous.
+  
+#### परन्तु इदानीं जनसंख्याबाहुल्यात्‌ नगरीकरणात्‌ परिसरमालिन्यं वर्धते ।
+* ಪರಂತು ಇದಾನೀಂ ಜನಸಂಖ್ಯಾಬಾಹುಲ್ಯಾತ್ ನಗರೀಕರಣಾತ್ ಪರಿಸರಮಾಲಿನ್ಯಂ ವರ್ಧತೆ ।
+*However, now due to the increase in population and urbanization, environmental pollution is growing.
+
+### परिसरसंरक्षणम्‌ (ಪರಿಸರಸಂರಕ್ಷಣಮ್‌:)(Environmental Conservation:)
+
+#### वृक्षारोपणम्‌ अधिकं कर्तव्यम्‌ । 
+* ವೃಕ್ಷಾರೋಪಣಮ್‌ ಅಧಿಕಂ ಕರ್ತವ್ಯಮ್‌ ।
+* Planting more trees is essential.
+
+#### कृषिभूमिं वसत्यर्थं न परिवर्तनीयम्‌। 
+* ಕೃಷಿಭೂಮಿಂ ವಸತ್ಯರ್ಥಂ ನ ಪರಿವರ್ತನೀಯಮ್‌।
+* Agricultural land should not be converted for other purposes.
+
+#### जलमालिन्यस्य वायुमालिन्यस्य च नियन्त्रणं करणीयम्‌ । 
+* ಜಲಮಾಲಿನ್ಯಸ್ಯ ವಾಯುಮಾಲಿನ್ಯಸ್ಯ ಚ ನಿಯಂತ್ರಣಂ ಕರಣೀಯಮ್‌ ।
+* Control over water and air pollution is necessary.
+
+#### जनसंख्यास्फोटस्य नियन्त्रणं भवेत्‌ । 
+* ಜನಸಂಖ್ಯಾಸ್ಫೋಟಸ್ಯ ನಿಯಂತ್ರಣಂ ಭವೆತ್‌ ।
 * Population explosion should be controlled.
-#### प्लास्टिक् इत्यादिवस्तूनाम् उपयोगः न करणीयः ।
-* Plastik ityaadi vastuunaam upayogah na karaniiyah.
-* ಪ್ಲಾಸ್ಟಿಕ್ ಇತ್ಯಾದಿವಸ್ತೂನಾಂ ಉಪಯೋಗಃ ನ ಕರಣೀಯಃ ।
-* Do not use plastic or other materials.
-#### व्यर्थवस्तूनां प्रक्षेपणापेक्षया रूपान्तरेण उपयोगः कर्तव्यः।
-* Vyarthavastunaam prakshepanaapekshayaa rupaantarena upayogah kartavyah.
-* ವ್ಯರ್ಥವಸ್ತೂನಾಂ ಪ್ರಕ್ಷೇಪಣಾಪೇಕ್ಷಯಾ ರೂಪಾಂತರೇಣ ಉಪಯೋಗಃ ಕರ್ತವ್ಯಃ।
-* Useless objects should be used in a different form than projection.
-#### परिसरसंरक्षणविषये छात्राणां विशेषकार्यागारः आयोजनीयः।
-* Parisara Samrakshanavisaye chhaatraanaam visheshakaaryaagaarah ayojaniiyah.
+
+#### प्लास्टिक्‌ इत्यादिवस्तूनाम्‌ उपयोगः न करणीयः । 
+* ಪ್ಲಾಸ್ಟಿಕ್‌ ಇತ್ಯಾದಿವಸ್ತೂನಾಮ್‌ ಉಪಯೋಗಃ ನ ಕರಣೀಯಃ ।
+* Avoid the use of plastics and similar materials.
+
+#### व्यर्थवस्तूनां प्रक्षेपणापक्षया रूपान्तरेण उपयोगः कर्तव्यः। 
+* ವ್ಯರ್ಥವಸ್ತೂನಾಂ ಪ್ರಕ್ಷೇಪಣಾಪಕ್ಷಯಾ ರೂಪಾಂತರೇಣ ಉಪಯೋಗಃ ಕರ್ತವ್ಯಃ।
+* Proper disposal and recycling of waste materials should be practiced.
+
+#### परिसरसंरक्षणविषये छात्राणां विशेषकार्यागारः आयोजनीयः। 
 * ಪರಿಸರಸಂರಕ್ಷಣವಿಷಯೇ ಛಾತ್ರಾಣಾಂ ವಿಶೇಷಕಾರ್ಯಾಗಾರಃ ಆಯೋಜನೀಯಃ।
-* Organize a special student workshop on campus preservation.
-#### एवं प्रकारेण परिसरसंरक्षणं करणीयम् ।
-* Evam prakaareNa Parisara Samrakshanam karaniiyam.
-* ಏವಂ ಪ್ರಕಾರೇಣ ಪರಿಸರಸಂರಕ್ಷಣಂ ಕರಣೀಯಮ್ ।
-* The premises should be protected in this way.
+* Special initiatives should be taken by students for environmental conservation.
+
+#### एवं प्रकारेण परिसरसंरक्षणं करणीयम्‌ ।
+* ಏವಂ ಪ್ರಕಾರೇಣ ಪರಿಸರಸಂರಕ್ಷಣಂ ಕರಣೀಯಮ್‌ ।  
+* In this way, environmental conservation should be carried out.
 
 ## (2) स‘णकयन्त्रम् (Computer)
 ### मानवाः प्रगतिशीलाः, ते प्रत्यहं नूतनम् आविष्कारं कुर्वन्तः एव सन्ति । 
