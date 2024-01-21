@@ -1,10 +1,10 @@
 ## Poets
 |Poet|Kalidasa|
 |-|-|
-|कविः|कालिदासः|
-|देशः||
-|जन्मस्थानं |काश्मीरः 
-|वासस्थानम् |उज्जयिनीः
+|कविः ಕವಿಃ|कालिदासः ಕಾಲಿದಾಸಃ|
+|देशः ದೇಶಃ||
+|जन्मस्थानं ಜನ್ಮಸ್ಥಾನಂ |काश्मीरः ಕಾಶ್ಮೀರಃ
+|वासस्थानम् ವಾಸಸ್ಥಾನಂ |उज्जयिनीः ಉಜ್ಜಯಿನೀಃ
 |Country||
 |Birthplace |Kashmir
 |Residence |Ujjain 
@@ -41,8 +41,15 @@
 | Country | Basuru, Tarikere, Chikkamagaluru Mandalam, Karnataka 
 | कालः | क्रि.श. 1952 तः 2007 
 | Time | 1952 AD to 2007 AD 
-| कृतयः| पद्यमणिमाला, गद्यरत्नमञ्जूषा, हास्यमधुबिन्दवः, तिलाेत्तमा, रसहृदयतन्त्रम्, गद्यलेखावली, विदुरनीतिः, चाणक्यनीतिः इत्यादयः
-| Works | Padyamanimala, Gadyaratnamanjusha, Hasyamadhubindava, Tilottama, Rasahridayatantram, Gadyalekhavali, Viduraniti, Chanakyaniti, etc. |
+| कृतयः ಕೃತಯಃ| पद्यमणिमाला ಪದ್ಯಮಣಿಮಾಲಾ Padyamanimala
+|| गद्यरत्नमञ्जूषा ಗದ್ಯರತ್ನಮಞ್ಜೂಷಾ Gadyaratnamanjusha
+|| हास्यमधुबिन्दवः ಹಾಸ್ಯಮಧುಬಿನ್ದವಃ Hasyamadhubindava
+|| तिलाेत्तमा ತಿಲಾೆತ್ತಮಾ Tilottama
+|| रसहृदयतन्त्रम् ರಸಹೃದಯತನ್ತ್ರಮ್ Rasahridayatantram
+|| गद्यलेखावली ಗದ್ಯಲೇಖಾವಲೀ Gadyalekhavali
+|| विदुरनीतिः ವಿದುರನೀತಿಃ Viduraniti
+|| चाणक्यनीतिः इत्यादयः ಚಾಣಕ್ಯನೀತಿಃ ಇತ್ಯಾದಯಃ Chanakyaniti, etc.
+
 
 ## वेदव्यासः
 |Poet| Veda Vyasa|
