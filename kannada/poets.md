@@ -52,3 +52,12 @@
 |Play| ‘ಪ್ರತಿರೂಪ’, <br> ‘ರೆಕ್ಕೆ ಮೂಡಿದಾಗ’, <br> ‘ನರಬಲಿ’, <br> ‘ಬೆಳ್ಳಕ್ಕಿ ಸಾಲು’ | 'Replica', <br> 'When the wing rises', <br> 'Human Sacrifice', <br> 'Herring Row'
 |Prizes| ದೇವರಾಜ ಬಹದ್ದೂರ್ ಪ್ರಶಸ್ತಿ, <br> ಕುವೆಂಪು ಸಾಹಿತ್ಯ ಪುರಸ್ಕಾರ, <br> ಪೆರ್ಲ ಕೃಷ್ಣಭಟ್ಟ ಪ್ರಶಸ್ತಿ, <br> ಕಾವ್ಯಾನಂದ ಪ್ರಶಸ್ತಿ, <br> ಸಾಹಿತ್ಯ ಶ್ರೀ ಪ್ರಶಸ್ತಿ, <br> ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ <br>| Devaraja Bahadur Award, <br> Kuvempu Sahitya Award, <br> Perla Krishnabhatta Award, <br> Kavananda Award, <br> Sahitya Sri Award, <br> Karnataka Natak Academy Award <br>
 
+## ಸಿ.ಪಿ.ಕೆ
+|Item | Details| In English|
+|-|-|-|
+|Name |ಸಿ.ಪಿ.ಕೆ | C.P.K
+|Full name | ಡಾ. ಚಿಕ್ಕನಾಯಕನಹಳ್ಳಿ ಪುಟ್ಟೇಗೌಡ ಕೃಷ್ಣಕುಮಾರ್ | Dr. Chikkanayakanahalli Puttegowda Krishnakumar
+|Year-of-birth|೧೯೩೯|1939 ರಲ್ಲಿ ಜನಿಸಿದರು|
+|Place of birth|ಕೃಷ್ಣರಾಜನಗರ ತಾಲ್ಲೂಕಿನ ಚಿಕ್ಕನಾಯಕನ ಹಳ್ಳಿ| Chikkanayakana village of Krishnarajanagar taluk
+|Work |  ‘ಅನಂತಪೃಥ್ವೀ’, <br> ‘ಬೊಗಸೆ’, <br>‘ಕನ್ನಡ ಚತುರ್ಮುಖ’, <br>‘ಕಾವ್ಯಾರಾಧನಾ’,<br> ‘ಜನಪದ ಪ್ರತಿಭೆ’, <br>‘ಪರಿಭಾವನೆ’, <br>‘ಸಾಹಿತ್ಯ ತತ್ವಗಳು’, <br>‘ಪಾಶ್ಚಾತ್ಯ ಕಾವ್ಯಚಿಂತನ’, <br>‘ಕನ್ನಡ ನಾಗಾನಂದ’,<br> ‘ಕನ್ನಡ ರತ್ನಾವಳಿ’ | 'Anantaprithvi', <br> 'Bogase', <br>'Kannada Chaturmukha', <br>'Kavyaradhana',<br> 'Folk Genius', <br>'Paribhavane', <br>'Principles of Literature', <br> 'Western Poetic Thought', <br>'Kannada Nagananda',<br> 'Kannada Ratnavali'
+|Prizes| ಬಸವ ಸಾಹಿತ್ಯ ಶ್ರೀ, <br> ವಿದ್ವತ್ ಶಿರೋಮಣಿ, <br> ಹನಿಗವನ ಹರಿಕಾರ, <br> ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, <br> ಜಾನಪದ ತಜ್ಞ ಪ್ರಶಸ್ತಿ, <br> ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, <br> ಚುಟುಕ ರತ್ನ ಪ್ರಶಸ್ತಿ | Basava Sahitya Sri, <br> Vidwat Shiromani, <br> Hanigavan Harikara, <br> Karnataka Sahitya Akademi Award, <br> Folklorist Award, <br> Rajyotsava Award, <br> Chutuka Ratna Award |
