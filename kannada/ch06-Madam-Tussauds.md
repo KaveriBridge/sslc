@@ -141,28 +141,54 @@
 ## (IV) Explain with context.
 * ಸಂದರ್ಭದೊಡನೆ ವಿವರಿಸಿರಿ.
 ### Common section
-* ಈ ವಾಕ್ಯವನ್ನು **ಡಾ. ಬಸವಪ್ರಭು ಪಾಟೀಲ ಹಾಗೂ ಕೆ ಸಿದ್ದಯ್ಯಸ್ವಾಮಿ** ಬರೆದ **"ಯುರೋಪಿನಲ್ಲಿ"** ಎಂಬ **ಪ್ರವಾಸ ಕಥನ**ದಿಂದ ಆಯ್ದ **"ಟುಸ್ಸೋಡ್‌ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂ"** ಎಂಬ ಗದ್ಯಪಾಠದಿಂದ ಆರಿಸಿಲಾಗಿದೆ.
+* ಈ ವಾಕ್ಯವನ್ನು **ಡಾ. ಬಸವಪ್ರಭು ಪಾಟೀಲ ಹಾಗೂ ಕೆ ಸಿದ್ದಯ್ಯಸ್ವಾಮಿ** ಬರೆದ **"ಯುರೋಪಿನಲ್ಲಿ"** ಎಂಬ **ಪ್ರವಾಸ ಕಥನ**ದಿಂದ ಆಯ್ದ **"ಟುಸ್ಸೋಡ್‌ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂ"** ಎಂಬ ಗದ್ಯದಿ೦ದ ಆರಿಸಿಲಾಗಿದೆ.
 * This sentence is selected from the prose passage "ಯುರೋಪಿನಲ್ಲಿ" (In Europe), written by Dr. Basavaprabhu Patil and K. Siddayyaswami.
 * It is chosen from the selected essay "ಟುಸ್ಸೋಡ್‌ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂ" (The Tussauds Wax Museum).
 
 ### 1. ಅಲ್ಲಿನ ಒಳ ಥೇಟರ್‌ನಲ್ಲಿ 3ಡಿ ಕನ್ನಡಕ ಹಾಕಿಕೊಂಡು ತಾರಾಲಯ ನೋಡಿದೆವು.
 * We watched the planetarium wearing 3D glasses in the inner theater there.
 * 
-* ಈ ಮಾತನ್ನು ಲೇಖಕರು ಹೇಳಿದ್ದಾರೆ.
+* ಈ ವಾಕ್ಯವನ್ನು ಲೇಖಕರು ತಾರಾಲಯವನ್ನು ಕುರಿತು ಹೇಳಿದ್ದಾರೆ.
+* This sentence is said by the author about the planetarium.
+*
+* ತಮ್ಮ ಸ್ನೇಹಿತನಾದ ಸತೀಶನ ಜೊತೆ ತಾರಾಲಯಕ್ಕೆ ಹೋಗಿದ್ದರು.
+* Went to planetarium with his friend Satish.
+* 
+* ತಾರಾಲಯದಲ್ಲಿ 3ಡಿ ಕಡ್ಡಕವನ್ನು ಹಾಕಿದಾಗ ನಕ್ಷತುಗಳು ಕಾಣುತ್ತವೆ ಎ೦ದು ಹೇಳುವಾಗ ಹೇಳಿದ್ದಾರೆ.
+* He said that when you put a 3D lens in the planetarium, you will see the stars.
+
 ### 2. ಇವರೆಲ್ಲ ಬಸ್ಸೋ, ರೈಲೋ ಹಿಡಿಯಲು ತರಾತುರಿಯಿಂದ ಹೊರಟಿದ್ದರು.
 * All of them had left in a hurry to catch the bus and train.
 * 
-* ಈ ಮಾತನ್ನು ಲೇಖಕರು ಹೇಳಿದ್ದಾರೆ.
+* ಈ ವಾಕ್ಯವನ್ನು ಲೇಖಕರು ಲಂಡನ್ನಿನ ಜನರ ಬದುಕಿನ ಬಗ್ಗೆ ಹೇಳುವಾಗ ಹೇಳಿದ್ದಾರೆ.
+* This sentence is said by the author while talking about the life of people in London.
+* 
+* ಲಂಡನ್‌ ಬದುಕಲು ತು೦ಬಾ ದುಬಾರಿ ಊರು ಎ೦ದು ಹೇಳುತ್ತಾರೆ.
+* It is said that London is a very expensive (ದುಬಾರಿ) city to live in (ಬದುಕಲು).
+* 
+* ಇಲ್ಲಿ ಬದುಕುವ ಜನರ ಕಷ್ಟ ಕ೦ಡು ಬರುತ್ತದೆ.
+* You will see the hardships of the people living here.
+* 
+* ಆವರು ತಮ್ಮ ಮನೆಗೆ ಮರಳಲು ನಿಂತಿದ್ದನ್ನು ನೋಡಿದ ಸ೦ದರ್ಭದಲ್ಲಿ ಲೇಖಕರು ಮೇಲಿನ ಮಾತು ಹೇಳುತ್ತಾರೆ.
+* The author says the above on the occasion of seeing them standing to return to their home.
+
 ### 3. ಲಂಡನ್ ಮಲಗಿ ನಿದ್ರಿಸುತ್ತದೆಯೇ ಅನಿಸುತ್ತದೆ.
 * London seems to lie down and sleep.
 * 
-* ಈ ಮಾತನ್ನು ಲೇಖಕರು ಹೇಳಿದ್ದಾರೆ.
-* 
+* ಈ ವಾಕ್ಯವನ್ನು ಲೇಖಕರು ಲ೦ಡನ್‌ ನಗರವನ್ನು ಕುರಿತು ಹೇಳಿದ್ದಾರೆ.
+* This sentence is said by the author about the city of London.
+*
 * ಲಂಡನ್‌ ಸುಂದರವಾದ ನಗರ.
+* London is a beautiful city.
+* 
 * ಔದ್ಯಮಿಕ, ಬ್ಯಾಂಕಿಂಗ್‌ ನಗರ.
-* ಸದಾ ಜನಸಂದಣಿಯಿಂದ ಕೂಡಿರುವ ಲಂಡನ್‌ನಗರದ ಮಧ್ಯದಿಂದ ಹೊರವಲಯದ ಡೆಗೆ ಬಂದಂತೆಲ್ಲ ಲಂಡನ್‌ ಮಲಗಿ ನಿದ್ರಿಸುತ್ತದೆಯೋ ಎನ್ನುವಷ್ಟು ನಿಶ್ಶಬ್ದವಾಗಿರುತ್ತದೆ.
-* ರಸ್ತೆ ಮೇಲೆ ಕಾರುಗಳು, ಮನೆ ಮುಂದೆ ಜನಗಳೇ ಇಲ್ಲ ಅಷ್ಟು ಪ್ರಶಾಂತವಾಗಿದೆ ಎಂದು ತಿಳಿಸುತ್ತಾ ಲೇಖಕರು ಈ ಮಾತನ್ನು ಹೇಳಿದ್ದಾರೆ.
+* Industrial, banking city.
+* 
+* ಆದರೆ ಲಂಡನ್‌ನ ಹೊರವಲಯಕ್ಕೆ ಬಂದಾಗ, ಅದು ನಿದ್ರಿಸುತ್ತಿರುವಂತೆ ಶಾಂತವಾಗಿರುತ್ತದೆ.
+* But when it comes to the outskirts of London, it is as quiet as sleep.
+* 
 * ಈ ಸಾಲಿನಲ್ಲಿ ಅಷ್ಟು ದೊಡ್ಡ ನಗರಿಯಲ್ಲಿನ ನಿಶ್ಶಬ್ಧತೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ.
+* This line expresses the silence in such a big city.
 --------------------------------------------------------------------------------------------------------------
 ### ಕೃತಿಕಾರರ Parichaya
 --------------------------------------------------------------------------------------------------------------
