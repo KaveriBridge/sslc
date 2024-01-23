@@ -7,13 +7,13 @@
 
 ### 2. ಕವಿ ಮಾನವನ ಬದುಕನ್ನು ಇಬ್ಬನಿಯಂತೆ ಇರಬೇಕು ಎಂದು ಏಕೆ ಬಯಸುತ್ತಾರೆ?
 * 2. Why does the poet want human life to be like dew?
-* **ರವಿಯ ಕಿರಣಗಳಿಗೆ ಹೇಗೆ ಇಬ್ಬನಿಯು ಮೌನವಾಗಿ ಕರಗುವಂತೆ ** ಮಾನವನ ಬದುಕು ಇರಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
+* **ರವಿಯ ಕಿರಣಗಳಿಗೆ ಹೇಗೆ ಇಬ್ಬನಿಯು ಮೌನವಾಗಿ ಕರಗುವಂತೆ** ಮಾನವನ ಬದುಕು ಇರಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
 * The poet has said that human life should be like how the dew melts silently to the rays of the sun.
 
 ### 3. ನಮ್ಮ ಕರ್ತವ್ಯಗಳನ್ನು ಹೇಗೆ ಮುಗಿಸಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ?
 * 3. How does the poet say to finish our duties?
 * **ಶಾಂತಿಯಿಂದ ಬದುಕಿ** ನಮ್ಮ ಕರ್ತವ್ಯಗಳನ್ನು ಮುಗಿಸಬೇಕೆಂದು ಕವಿ ಸಿ.ಪಿ.ಕೆ. ಅವರು ಹೆಳಿದ್ದಾರೆ.
-* **Live in peace** Poet C.P.K to finish our duties. He said.
+* Poet CPK has said that we should **live in peace** and finish our duties.
 
 
 ## ಇ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
