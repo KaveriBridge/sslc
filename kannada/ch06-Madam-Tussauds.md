@@ -50,73 +50,114 @@
 *
 * ಇದು ಲಂಡನ್‍ನಲ್ಲಿ ಸಂಭವಿಸಿದ ದುರಂತಗಳ ಬಗ್ಗೆ ಗೈಡ್ ತಿಳಿಸಿದ ವಿಚಾರಗಳು.
 * These are the thoughts of the guide about the tragedies that happened in London.
---------------------------------------------------------------------------------------------------------------
-#### 2. ಥೇಮ್ಸ್ ನದಿಯ ಉತ್ತರ ಹಾಗೂ ದಕ್ಷಿಣಕ್ಕೆ ಯಾವ ವರ್ಗದ ಜನರು ವಾಸಿಸುತ್ತಾರೆ?
-* ಥೇಮ್ಸ್ ನದಿಯ ದಕ್ಷಿಣಕ್ಕೆ ಉದ್ಯಮಗಳು, ಫ್ಯಾಕ್ಟರಿಗಳು ಹೆಚ್ಚಾಗಿ ರಾಜಕಾರಣಿಗಳು ಇರುತ್ತಾರಂತೆ. 
-* ಉತ್ತರಕ್ಕೆ ವ್ಯಾಪಾರಿಗಳು, ಕಡಿಮೆ ಆದಾಯ ಹೊಂದಿದವರು ವಾಸಿಸುತ್ತಾರೆ. 
-* ಥೇಮ್ಸ್ ನದಿ ದಂಡೆ ಬದಿಯಲ್ಲಿ ವಾಸಿಸುವವರು ಶ್ರೀಮಂತರೇ - ನಮ್ಮ ಮುಂಬಯಿಯ ಸಮುದ್ರ ದಂಡೆಗುಂಟ ಇರುವ ಮರೀನ್ ಡ್ರೈವ್ನಂತೆ.
-#### 2. What types of people live north and south of the Thames?
-* Industries and factories south of the Thames are often occupied by politicians.
-* To the north live traders, low income earners.
-* People who live on the banks of the Thames are rich - like Marine Drive, our Mumbai seafront.
--------------------------------------------------- -------------------------------------------------- ----------
-#### 3. ಲಂಡನ್ ಟವರ್ ಬ್ರಿಜ್‍ನ ವೈಶಿಷ್ಟ್ಯವೇನು?
+
+### 2. ಥೇಮ್ಸ್ ನದಿಯ ಉತ್ತರ ಹಾಗೂ ದಕ್ಷಿಣಕ್ಕೆ ಯಾವ ವರ್ಗದ ಜನರು ವಾಸಿಸುತ್ತಾರೆ?
+* What types of people live north and south of the Thames?
+* 
+* ಥೇಮ್ಸ್ ನದಿಯ ದಕ್ಷಿಣಕ್ಕೆ ಉದ್ಯಮಗಳು, ಫ್ಯಾಕ್ಟರಿಗಳು ಇವೆ. 
+* Industries, factories are located south of the river Thames.
+*
+* ರಾಜಕಾರಣಿಗಳು ಅಲ್ಲಿ ವಾಸಿಸುತ್ತಾರೆ.
+* Politicians live there.
+* 
+* ಉತ್ತರಕ್ಕೆ ವ್ಯಾಪಾರಿಗಳು ಮತ್ತು ಕಡಿಮೆ ಆದಾಯದವರು ವಾಸಿಸುತ್ತಾರೆ.
+* Traders and low income people live in the north.
+* 
+* ಥೇಮ್ಸ್ ನದಿ ದಂಡೆ ಬದಿಯಲ್ಲಿ ವಾಸಿಸುವವರು ಶ್ರೀಮಂತರು.
+* People who live on the banks of the Thames are rich.
+* 
+* ನಮ್ಮ ಮುಂಬಯಿಯ ಸಮುದ್ರ ದಂಡೆಯಲಿ ಇರುವ ಮರೀನ್ ಡ್ರೈವ್ ನಂತೆ.
+* Like Mumbai seafront's Marine Drive.
+
+### 3. ಲಂಡನ್ ಟವರ್ ಬ್ರಿಜ್‍ನ ವೈಶಿಷ್ಟ್ಯವೇನು?
+* What is the feature of London Tower Bridge?
+* 
 * ಥೇಮ್ಸ್ ನದಿಯ ಮೇಲೆ 13 ಬ್ರಿಜ್‌ಗಳಿವೆ. 
-* ಅದರಲ್ಲಿ ಟವರ್ ಬ್ರಿಜ್ ಪ್ರಮುಖವಾದುದು. 
-* ಇದು ಸಾವಿರ ಟನ್ ತೂಗುತ್ತದೆ. 
-* ಹಡಗುಗಳು ಬಂದಾಗ ಒಂದೂವರೆ ಎರಡು ನಿಮಿಷದಲ್ಲಿ ಮೇಲಕ್ಕೆದ್ದು ಹಡಗುಗಳು ಹೋಗಲು ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ.
-* ಇದು ಟವರ್ ಬ್ರಿಜ್‍ನ ವೈಶಿಷ್ಟ್ಯ.
-#### 3. What is the feature of London Tower Bridge?
 * There are 13 bridges over the River Thames.
+* 
+* ಅದರಲ್ಲಿ ಟವರ್ ಬ್ರಿಜ್ ಪ್ರಮುಖ. 
 * Of which Tower Bridge is the most important.
+* 
+* ಇದು ಸಾವಿರ ಟನ್ ತೂಗುತ್ತದೆ. 
 * It weighs a thousand tons.
-* When the ships arrive, rise within one and a half minutes and make way for the ships to go.
-* This is a feature of Tower Bridge.
---------------------------------------------------------------------------------------------------------------
-#### 4. ಥೇಮ್ಸ್ ನದಿಯ ಮೇಲಿರುವ ಪ್ರಸಿದ್ಧ ಸೇತುವೆಗಳಾವುವು?
-* ಥೇಮ್ಸ್ ನದಿಯ ಮೇಲೆ 13 ಬ್ರಿಜ್‌ಗಳಿವೆ. 
-* ಅದರಲ್ಲಿ ಟವರ್ ಬ್ರಿಜ್, ವೆಸ್ಟ್ಮಿನಿಸ್ಟರ್ ಸೇತುವೆ, ವಾಟರ್ಲೂ ಸೇತುವೆ ಮತ್ತು ಲಂಡನ್ ಸೇತುವೆ ಪ್ರಸಿದ್ಧವಾಗಿವೆ. 
-#### 4. Which are the famous bridges over the River Thames?
+* 
+* ಹಡಗುಗಳು ಬಂದಾಗ ಒಂದೂವರೆ ಎರಡು ನಿಮಿಷದಲ್ಲಿ ಮೇಲೆ ಏರುತ್ತದೆ.
+* When the ships arrive, rise within one and a half minutes.
+
+* ಹಡಗುಗಳು ಹೋಗಲು ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ.
+* Makes way for the ships to go.
+* 
+* ಇದು ಟವರ್ ಬ್ರಿಜ್‍ನ ವೈಶಿಷ್ಟ್ಯ.
+* This is Tower Bridge's feature.
+
+### 4. ಥೇಮ್ಸ್ ನದಿಯ ಮೇಲಿರುವ ಪ್ರಸಿದ್ಧ ಸೇತುವೆಗಳಾವುವು?
+* Which are the famous bridges over the River Thames?
+* 
+* ಥೇಮ್ಸ್ ನದಿಯ ಮೇಲೆ 13 ಬ್ರಿಜ್‌ಗಳಿವೆ.
 * There are 13 bridges over the River Thames.
+* 
+* ಅದರಲ್ಲಿ ಟವರ್ ಬ್ರಿಜ್, ವೆಸ್ಟ್ಮಿನಿಸ್ಟರ್ ಬ್ರಿಜ್, ವಾಟರ್ಲೂ ಬ್ರಿಜ್ ಮತ್ತು ಲಂಡನ್ ಬ್ರಿಜ್ ಪ್ರಸಿದ್ಧವಾಗಿವೆ.
 * Among them Tower Bridge, Westminster Bridge, Waterloo Bridge and London Bridge are famous.
--------------------------------------------------- -------------------------------------------------- ----------
-#### 5. ಟವರ್ ಆಫ್ ಲಂಡನ್ ಅನ್ನು ನಿಗೂಢ ಸ್ಥಳ ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ?
-* ಲಂಡನ್ ಬ್ರಿಜ್‌ಗೆ ಹತ್ತಿರದಲ್ಲೇ ಟವರ್ ಆಫ್ ಲಂಡನ್ನೋಡಿದೆವು. 
+* 
+* ಅದರಲ್ಲಿ ಟವರ್ ಬ್ರಿಜ್ ಪ್ರಮುಖ. 
+* Of which Tower Bridge is the most important.
+* 
+* ಇದು ಸಾವಿರ ಟನ್ ತೂಗುತ್ತದೆ. 
+* It weighs a thousand tons.
+* 
+* ಹಡಗುಗಳು ಬಂದಾಗ ಒಂದೂವರೆ ಎರಡು ನಿಮಿಷದಲ್ಲಿ ಮೇಲೆ ಏರುತ್ತದೆ.
+* When the ships arrive, rise within one and a half minutes.
+* 
+* ಇದು ಟವರ್ ಬ್ರಿಜ್‍ನ ವೈಶಿಷ್ಟ್ಯ.
+* This is Tower Bridge's feature.
+
+### 5. ಟವರ್ ಆಫ್ ಲಂಡನ್ ಅನ್ನು ನಿಗೂಢ ಸ್ಥಳ ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ?
+* Why is the Tower of London called a mysterious place?
+* 
+* ಲಂಡನ್ ಟವರ್ ಲಂಡನ್ ಸೇತುವೆಯ ಬಳಿ ಇದೆ.
+* Tower of London is near London Bridge.
+* 
 * 3-4 ಅಂತಸ್ತಿನ ಚೌಕಾಕಾರದ ಬೃಹತ್ ಕಟ್ಟಡದ ಮೇಲೆ ಟವರ್‌ಗಳಿವೆ. 
-* ಇದು ರಾಜರು ತಮಗೆ ಆಗದವರನ್ನು ಕೊಲ್ಲಿಸಿದ ಜಾಗ. 
-* ರಾಜಮನೆತನಗಳಲ್ಲಿನ ವೈಷಮ್ಯ, ಅಸೂಯೆ, ಕೊಲೆ ಸುಲಿಗೆಗಳ ತಾಣವಿದು. 
-* ರಾಬರ್ಟ್ ಕ್ಲೈವ್ 1757 ರ ಪ್ಲಾಸಿ ಕದನದಲ್ಲಿ ವಶಪಡಿಸಿಕೊಂಡ ಶಸ್ತ್ರಾಸ್ತ್ರಗಳನ್ನು ಇಲ್ಲಿ ಇಡಲಾಗಿದೆಯಂತೆ. 
-* ಇದು ನಿಗೂಢ ಸ್ಥಳ.
-#### 5. Why is the Tower of London called a mysterious place?
-* We saw Tower of London near London Bridge.
 * There are towers on the 3-4 storied square building.
-* This is the place where kings killed those who were not theirs.
-* This is the site of feuds, jealousy, murder and extortion in royal families.
-* The arms captured by Robert Cleve in the Battle of Plassey in 1757 are said to have been kept here.
+* 
+* ಇದು ರಾಜರು ತಮಗೆ ಆಗದವರನ್ನು ಕೊಲ್ಲಿಸಿದ ಸ್ಥಳ.
+* Here kings got the people they did not like killed.
+* 
+* ರಾಜಮನೆತನಯ ವೈಷಮ್ಯ, ಅಸೂಯೆ, ಕೊಲೆ ಸುಲಿಗೆಗಳ ಸ್ಥಳವಿದು.
+* This is the place of royal feud, jealousy, murder and extortion.
+*
+* ರಾಬರ್ಟ್ ಕ್ಲೈವ್ 1757 ರ ಪ್ಲಾಸಿ ಕದನದಲ್ಲಿ ವಶಪಡಿಸಿಕೊಂಡ ಶಸ್ತ್ರ ಇಲ್ಲಿ ಇಡಲಾಗಿದೆ.
+* The weapon(ಶಸ್ತ್ರ) captured(ವಶಪಡಿಸಿಕೊಂಡ) by Robert Clive at the ಕದನ(Battle) of Plassey in 1757 is kept here.
+* 
+* ಇದು ನಿಗೂಢ ಸ್ಥಳ.
 * This is a mysterious place.
 --------------------------------------------------------------------------------------------------------------
 ## (III) Answer the following questions in eight to ten sentences.
 * ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
---------------------------------------------------------------------------------------------------------------
-#### 1. ಟುಸ್ಸೋಡ್ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂನ ವಿಶೇಷತೆ ಏನು?
---------------------------------------------------------------------------------------------------------------
-#### 2. ಛೇಂಬರ್ ಆಫ್ ಹಾರರ್ಸ್ ಒಳಗೆ ಹೋದಾಗ ಲೇಖಕರಿಗಾದ ಅನುಭವಗಳೇನು?
---------------------------------------------------------------------------------------------------------------
-#### 3. ಥೇಮ್ಸ್ ನದಿಯ ಸುತ್ತಮುತ್ತ ಲೇಖಕರು ಕಂಡ ದೃಶ್ಯಗಳಾವುವು?
+### 1. ಟುಸ್ಸೋಡ್ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂನ ವಿಶೇಷತೆ ಏನು?
+### 2. ಛೇಂಬರ್ ಆಫ್ ಹಾರರ್ಸ್ ಒಳಗೆ ಹೋದಾಗ ಲೇಖಕರಿಗಾದ ಅನುಭವಗಳೇನು?
+### 3. ಥೇಮ್ಸ್ ನದಿಯ ಸುತ್ತಮುತ್ತ ಲೇಖಕರು ಕಂಡ ದೃಶ್ಯಗಳಾವುವು?
 --------------------------------------------------------------------------------------------------------------
 ## (IV) Explain with context.
 * ಸಂದರ್ಭದೊಡನೆ ವಿವರಿಸಿರಿ.
---------------------------------------------------------------------------------------------------------------
-#### 1. ಅಲ್ಲಿನ ಒಳ ಥೇಟರ್‌ನಲ್ಲಿ 3ಡಿ ಕನ್ನಡಕ ಹಾಕಿಕೊಂಡು ತಾರಾಲಯ ನೋಡಿದೆವು.
-#### 1. We watched the planetarium wearing 3D glasses in the inner theater there.
---------------------------------------------------------------------------------------------------------------
-#### 2. ಇವರೆಲ್ಲ ಬಸ್ಸೋ, ರೈಲೋ ಹಿಡಿಯಲು ತರಾತುರಿಯಿಂದ ಹೊರಟಿದ್ದರು.
-#### 2. All of them had left in a hurry to catch the bus and train.
---------------------------------------------------------------------------------------------------------------
-#### 3. ಲಂಡನ್ ಮಲಗಿ ನಿದ್ರಿಸುತ್ತದೆಯೇ ಅನಿಸುತ್ತದೆ.
-#### 3. London seems to lie down and sleep.
-* ಈ ವಾಕ್ಯವನ್ನು ಡಾ. ಬಸವಪ್ರಭು ಪಾಟೀಲ ಹಾಗೂ ಕೆ ಸಿದ್ದಯ್ಯಸ್ವಾಮಿಯವರು ಬರೆದಿರುವ "ಯುರೋಪಿನಲ್ಲಿ' ಎಂಬ ಪ್ರವಾಸ ಕಥನದಿಂದ ಆಯ್ದ "ಟುಸ್ಸೋಡ್‌ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂ' ಎಂಬ ಗದ್ಯಪಾಠದಿಂದ ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.
+### Common section
+* ಈ ವಾಕ್ಯವನ್ನು **ಡಾ. ಬಸವಪ್ರಭು ಪಾಟೀಲ ಹಾಗೂ ಕೆ ಸಿದ್ದಯ್ಯಸ್ವಾಮಿ** ಬರೆದ **"ಯುರೋಪಿನಲ್ಲಿ"** ಎಂಬ **ಪ್ರವಾಸ ಕಥನ**ದಿಂದ ಆಯ್ದ **"ಟುಸ್ಸೋಡ್‌ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂ"** ಎಂಬ ಗದ್ಯಪಾಠದಿಂದ ಆರಿಸಿಲಾಗಿದೆ.
+* This sentence is selected from the prose passage "ಯುರೋಪಿನಲ್ಲಿ" (In Europe), written by Dr. Basavaprabhu Patil and K. Siddayyaswami.
+* It is chosen from the selected essay "ಟುಸ್ಸೋಡ್‌ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂ" (The Tussauds Wax Museum).
+
+### 1. ಅಲ್ಲಿನ ಒಳ ಥೇಟರ್‌ನಲ್ಲಿ 3ಡಿ ಕನ್ನಡಕ ಹಾಕಿಕೊಂಡು ತಾರಾಲಯ ನೋಡಿದೆವು.
+* We watched the planetarium wearing 3D glasses in the inner theater there.
+* 
 * ಈ ಮಾತನ್ನು ಲೇಖಕರು ಹೇಳಿದ್ದಾರೆ.
+### 2. ಇವರೆಲ್ಲ ಬಸ್ಸೋ, ರೈಲೋ ಹಿಡಿಯಲು ತರಾತುರಿಯಿಂದ ಹೊರಟಿದ್ದರು.
+* All of them had left in a hurry to catch the bus and train.
+* 
+* ಈ ಮಾತನ್ನು ಲೇಖಕರು ಹೇಳಿದ್ದಾರೆ.
+### 3. ಲಂಡನ್ ಮಲಗಿ ನಿದ್ರಿಸುತ್ತದೆಯೇ ಅನಿಸುತ್ತದೆ.
+* London seems to lie down and sleep.
+* 
+* ಈ ಮಾತನ್ನು ಲೇಖಕರು ಹೇಳಿದ್ದಾರೆ.
+* 
 * ಲಂಡನ್‌ ಸುಂದರವಾದ ನಗರ.
 * ಔದ್ಯಮಿಕ, ಬ್ಯಾಂಕಿಂಗ್‌ ನಗರ.
 * ಸದಾ ಜನಸಂದಣಿಯಿಂದ ಕೂಡಿರುವ ಲಂಡನ್‌ನಗರದ ಮಧ್ಯದಿಂದ ಹೊರವಲಯದ ಡೆಗೆ ಬಂದಂತೆಲ್ಲ ಲಂಡನ್‌ ಮಲಗಿ ನಿದ್ರಿಸುತ್ತದೆಯೋ ಎನ್ನುವಷ್ಟು ನಿಶ್ಶಬ್ದವಾಗಿರುತ್ತದೆ.
