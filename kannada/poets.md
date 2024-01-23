@@ -22,7 +22,6 @@
 * He has written a biography called 'Ganayogi Puttaraja Kavi Gawailu'.
 * 
 * ಅವರು ‘ಅಮೃತಕ್ಕೆ ಹಾರಿದ ಗರುಡ’ ಎಂಬ ಕಥಾ ಸಂಕಲನ ಬರೆದಿದ್ದರೆ.
-* 
 * He has written collection of poems called 'Amrutke Harida Garuda'.
 * 
 * ಅವರಿಗೆ ರತ್ನಾಕರವರ್ಣಿ ಮುದ್ದಣ ದತ್ತಿ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯಿಂದ ‘ವರ್ಷದ ಉತ್ತಮ ಕೃತಿ’ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ.
