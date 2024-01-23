@@ -70,7 +70,7 @@
 * Like Mumbai seafront's Marine Drive.
 
 ### 3. ಲಂಡನ್ ಟವರ್ ಬ್ರಿಜ್‍ನ ವೈಶಿಷ್ಟ್ಯವೇನು?
-* What is the feature of London Tower Bridge?
+* What is the specialty of the London Tower Bridge?
 * 
 * ಥೇಮ್ಸ್ ನದಿಯ ಮೇಲೆ 13 ಬ್ರಿಜ್‌ಗಳಿವೆ. 
 * There are 13 bridges over the River Thames.
@@ -88,7 +88,7 @@
 * Makes way for the ships to go.
 * 
 * ಇದು ಟವರ್ ಬ್ರಿಜ್‍ನ ವೈಶಿಷ್ಟ್ಯ.
-* This is Tower Bridge's feature.
+* This is Tower Bridge's specialty.
 
 ### 4. ಥೇಮ್ಸ್ ನದಿಯ ಮೇಲಿರುವ ಪ್ರಸಿದ್ಧ ಸೇತುವೆಗಳಾವುವು?
 * Which are the famous bridges over the River Thames?
