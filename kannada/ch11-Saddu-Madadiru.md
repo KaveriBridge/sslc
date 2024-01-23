@@ -19,54 +19,74 @@
 ## ಇ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### 1. ಸದ್ದು ಮಾಡದೆ ಬಾಳಬೇಕು ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ಹೋಲಿಕೆಗಳಾವುವು?
 * What are the similes given by the poet to live without noise?
+*
 * ತಟ್ಟೆಯ ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
 * The camphor of the plate dissolves silently.
-* ದೀಪದೆದುರಿಗೆ ಕತ್ತಲು ನಿಶ್ಶಬ್ಧವಾಗಿ ಸರಿಯುತ್ತದೆ. 
+*
+* ದೀಪದ ಎದುರಿಗೆ ಕತ್ತಲು ನಿಶ್ಶಬ್ಧವಾಗಿ ಸರಿಯುತ್ತದೆ. 
 * Darkness moves silently towards the lamp.
-* ರವಿಕಿರಣಗಳಿಗೆ ಇಬ್ಬನಿ ಕರಗಿ ನೀರಾಗುತ್ತದೆ. 
+*
+* ರವಿಯ ಕಿರಣಗಳಿಗೆ ಇಬ್ಬನಿ ಕರಗಿ ನೀರಾಗುತ್ತದೆ. 
 * Dew melts into water due to sun rays.
-* ಯಾವುದೇ ಶಬ್ದ ಮಾಡದೇ ಹಡಗು ರೇವನ್ನು ಸೇರುತ್ತದೆ. 
+*
+* ಹಡಗು ಶಬ್ದ ಮಾಡದೇ ರೇವನ್ನು ಸೇರುತ್ತದೆ. 
 * The ship joins the harbor without making a sound.
-* ಹಾಗೆಯೇ ಮಾನವ ಸದ್ದು ಮಾಡದೆ ಬಾಳಬೇಕು ಎ೦ದು ಕವಿಗಳು ತಿಳಿಸುತ್ತಾರೆ.
+*
+* ಹಾಗೆಯೇ ಮಾನವ ಸದ್ದು ಮಾಡದೆ ಬಾಳಬೇಕು ಎ೦ದು ಕವಿಗಳು ಹೇಳಿದ್ದಾರೆ.
 * Similarly, poets say that human beings should live without noise.
 
 ### 2. ಕೂಗಾಟದ ಬದುಕು ನಿಷ್ಪ್ರಯೋಜಕ ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ನಿದರ್ಶನಗಳಾವುವು?
 * What are the examples given by the poet that the life of shouting is useless?
+* 
 * ಹಸಿಸೌದೆ ಬುಸುಗುಟ್ಟುವಂತೆ ಬದುಕಬಾರದು.
 * Don't live like the crackling wet wood.
+* 
+* ಸಿಡಿಮದ್ದಿಗೆ ಕಿಡಿ ಸೋಕಿದರೆ ಶಬ್ದ ಮಾಡಿ  ಸಿಡಿಯುತ್ತದೆ. 
+* Explosives make a noise if a spark gets into the explosive.
+* 
+* ಇದರಿ೦ದ ಏನೂ ಪ್ರಯೋಜನವಿಲ್ಲ. 
+* There is no gain.
+* 
 * ಕೂಗಾಡಿ ಹಾರಡಿ  ಪ್ರಯೋಜನವಿಲ್ಲ.
 * Shouting and jumping is of no use.
-* ಸಿಡಿಮದ್ದಿಗೆ ಒ೦ದೇ ಒ೦ದು ಕಿಡಿ ಸೋಕಿದ ತಕ್ಷಣ ಅದು ಶಬ್ದ ಮಾಡಿ ಸಿಡಿದೆಳೆಸುವ೦ತೆ. 
-* As soon as a single spark hits the explosive, it makes a noise and explodes.
-* ಇದರಿ೦ದ ಲಾಭವಿಲ್ಲ. 
-* There is no gain.
-* ಆದ್ದರಿ೦ದ ಸಿಡುಕು ಮಿಡುಕನ್ನು ತೊರೆದು ಮೌನವಾಗಿರಬೇಕೆ೦ದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
-* Therefore, the poet said that you should leave the anger and be silent.
+* 
+* ಸಿಡುಕು ಮಿಡುಕನ್ನು ತೊರೆದು ಮೌನವಾಗಿರು ಎಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
+* The poet says that you should leave the anger and be silent.
 
 ### 3. ಕರ್ಪೂರದ ಕೆಲಸವೇನು? ಅದು ತನ್ನ ಕೆಲಸವನ್ನು ಹೇಗೆ ಪೂರೈಸುತ್ತದೆ?
 * What is the function of camphor? How does it fulfill its function?
+* 
 * ತಟ್ಟೆಯಲ್ಲಿರುವ ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
 * The camphor on the plate melts silently.
+* 
 * ಇದು ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಪರಿಮಳ ಮತ್ತು ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.
 * It gives fragrance and light in less time.
-* ದೇವರಿಗೆ ಆರತಿ, ಪೂಜೆಗೆ ಸಹಾಯವನ್ನು ಮಾಡುತ್ತದೆ.
+* 
+* ದೇವರಿಗೆ ಆರತಿ, ಪೂಜೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.
 * It helps to give Aarti and to do pooja to God.
-* ಬೆ೦ಕಿಯಲ್ಲಿ ಉರಿದು ತಾನು ಕರಗಿದರೂ, ಅದು ಶಬ್ದವನ್ನು ಮಾಡದೇ ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.
-* In the fire, even though it burns, it gives light without making a sound. 
+* 
 * ಅದು ತನ್ನ ಕೆಲಸವನ್ನು ಮೌನವಾಗಿ ಪೂರೈಸುತ್ತದೆ.
 * It silently completes its work.
-### 4. ಮಾನವನ ಬದುಕು ಕರ್ಪೂರದಂತೆ ಇರಬೇಕು ಏಕೆ?
-* Why should human life be like camphor?
-* ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
-* Camphor dissolves silently.
+  
+
+### 4. ಮಾನವನ ಬದುಕು ಕರ್ಪೂರದಂತೆ ಇರಬೇಕು ಏಕೆ? (Why should human life be like camphor?)
+* ತಟ್ಟೆಯಲ್ಲಿರುವ ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
+* The camphor on the plate melts silently.
+* 
 * ಇದು ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಪರಿಮಳ ಮತ್ತು ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.
 * It gives fragrance and light in less time.
-* ಕರ್ಪೂರವು ಉರಿಯುವಂತೆ ನಾವು ಶಾಂತಿಯಿಂದ, ಸಹನೆಯಿಂದ ನಮ್ಮ ಕರ್ತವ್ಯವನ್ನು ಮುಗಿಸಬೇಕು
-* Like burning camphor, we should finish our duty with peace and patience.
+* 
+* ದೇವರಿಗೆ ಆರತಿ, ಪೂಜೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.
+* It helps to give Aarti and to do pooja to God.
+* 
+* ಅದು ತನ್ನ ಕೆಲಸವನ್ನು ಮೌನವಾಗಿ ಪೂರೈಸುತ್ತದೆ.
+* It silently completes its work.
+* 
+* ಹಾಗೆಯೇ ನಾವು ಶಾಂತಿಯಿಂದ, ಸಹನೆಯಿಂದ ನಮ್ಮ ಕರ್ತವ್ಯವನ್ನು ಮುಗಿಸಬೇಕು
+* Similarly, we should finish our duty with peace and patience.
+* 
 * ಕೂಗಾಡಿ ಹಾರಡಿ  ಪ್ರಯೋಜನವಿಲ್ಲ.
 * Shouting and jumping is of no use.
-* ಕರ್ಪೂರದ ಉದಾಹರಣೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಕವಿಗಳು ಹೀಗೆ ಹೇಳುತ್ತಾರೆ.
-* Poets say this using the example of camphor.
 
 ## ಈ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### ೧. ಸದ್ದು ಮಾಡದಿರು–ಕವಿತೆ ನೀಡುವ ಸಂದೇಶವೇನು?
@@ -80,14 +100,33 @@
 ### ೨. ಸಿಡುಕು ಮಿಡುಕನು ತೊರೆದು ಮೌನಿಯಾಗು
 * ಈ ವಾಕ್ಯವನ್ನು **ಸಿ.ಪಿ.ಕೆ.** ಅವರ **"ಬೊಗಸೆ"** **ಕವನ ಸಂಕಲನದ** **“ಸದ್ದು ಮಾಡದಿರು"** ಪದ್ಯದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 * This sentence is selected from the poem **"Don't make noise"** in **poetry collection** **"ಬೊಗಸೆ"** by **C.P.K.**.
+*
 * ಕವಿ ಮಾನವನ ಬದುಕನ್ನು ಕುರಿತು ಈ ಮಾತನ್ನು ಹೇಳಿದ್ದಾರೆ.
 * The poet has said this about human life.
-* ಮಾನವ ತನ್ನ ಅಹಂಕಾರವನ್ನು ತೊರೆಯಬೇಕು . 
+*
+* ತಟ್ಟೆಯಲ್ಲಿರುವ ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
+* The camphor on the plate melts silently.
+*
+* ದೀಪದೆದುರಿಗೆ ಕತ್ತಲು ನಿಶ್ಶಬ್ಧವಾಗಿ ಸರಿಯುತ್ತದೆ. 
+* Darkness moves silently towards the lamp.
+*
+* ರವಿಯ ಕಿರಣಗಳಿಗೆ ಇಬ್ಬನಿ ಕರಗಿ ನೀರಾಗುತ್ತದೆ. 
+* Dew melts into water due to sun rays.
+* 
+* ಕೂಗಾಡಿ ಹಾರಡಿ  ಪ್ರಯೋಜನವಿಲ್ಲ.
+* Shouting and jumping is of no use.
+*
+* ಮಾನವನು ತನ್ನ ಅಹಂಕಾರ ಬಿಡಬೇಕು. 
 * Man should leave his ego.
-* ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುವಂತೆ, ರವಿಯ ಕಿರಣಗಳಿಗೆ ಕರಗುವ ಇಬ್ಬನಿಯಂತೆ, ಮಾನವನು ಸಿಡುಕು ಮಿಡುಕನು ತೊರೆದು ಮೌನಿಯಾಗಬೇಕು.
-* As camphor melts in silence, as dew melts in the rays of the sun, so man should leave his anger and become silent.
-* ತನ್ನ ಕರ್ತವ್ಯಗಳನ್ನು ಶಾಂತಿಯಿಂದ ಮಾಡಿ ಮುಗಿಸಬೇಕು ಎ೦ದು ಕವಿಗಳು ತಿಳಿಸುತ್ತಾರೆ.
-* The poets say that one should finish his duties in peace.
+*
+* ಇದರಿ೦ದ ಲಾಭವಿಲ್ಲ. 
+* There is no gain.
+*
+* ನಾವು ಶಾಂತಿಯಿಂದ, ಸಹನೆಯಿಂದ ನಮ್ಮ ಕರ್ತವ್ಯವನ್ನು ಮುಗಿಸಬೇಕು
+* We should finish our duty with peace and patience.
+*
+* ಸಿಡುಕು ಮಿಡುಕನ್ನು ತೊರೆದು ಮೌನವಾಗಿರು ಎಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
+* The poet says that you should leave the anger and be silent.
 
 ## Poem
 <pre>
