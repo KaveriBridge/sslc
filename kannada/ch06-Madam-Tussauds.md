@@ -43,10 +43,10 @@
 * 13000 houses, 80 churches were burnt.
 * 
 * ಇದರ ನೆನಪಿಗಾಗಿ 200 ಅಡಿ ಎತ್ತರದ ಸ್ತಂಭ ನಿಲ್ಲಿಸಿದ್ದಾರೆ.
-* A 200 ಅಡಿ(feet) high ಸ್ತಂಭ(pillar) has been erected ನೆನಪಿಗಾಗಿ(in its memory).
+* A 200 feet(ಅಡಿ) high pillar(ಸ್ತಂಭ) has been erected in its memory (ನೆನಪು).
 * 
 * ಅದರ ಕೆಲವು ವರ್ಷಗಳ ಹಿಂದೆ ಪ್ಲೇಗ್‌ಗೆ ಹನ್ನೆರಡು - ಹದಿಮೂರು ಸಾವಿರ ಜನ ಸತ್ತರು. 
-* A few years before that, the plague killed twelve to thirteen thousand people.
+* A few years before (ಹಿಂದೆ) that, the plague killed twelve (ಹನ್ನೆರಡು) to thirteen (ಹದಿಮೂರು) thousand people.
 *
 * ಇದು ಲಂಡನ್‍ನಲ್ಲಿ ಸಂಭವಿಸಿದ ದುರಂತಗಳ ಬಗ್ಗೆ ಗೈಡ್ ತಿಳಿಸಿದ ವಿಚಾರಗಳು.
 * These are the thoughts of the guide about the tragedies that happened in London.
