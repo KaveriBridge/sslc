@@ -1,17 +1,22 @@
 # ಸದ್ದು ಮಾಡದಿರು !
 ## ಆ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
-### ೧. ತಿಮಿರಕ್ಕೆ ವೈರಿ ಯಾವುದು? (What is the enemy to darkness?)
+### 1. ತಿಮಿರಕ್ಕೆ ವೈರಿ ಯಾವುದು? (What is the enemy to darkness?)
 * ತಿಮಿರಕ್ಕೆ ವೈರಿ **ದೀಪ**. (The **lamp** is the enemy to darkness.)
 
-### ೨. ಕವಿ ಮಾನವನ ಬದುಕನ್ನು ಇಬ್ಬನಿಯಂತೆ ಇರಬೇಕು ಎಂದು ಏಕೆ ಬಯಸುತ್ತಾರೆ?
+### 2. ಕವಿ ಮಾನವನ ಬದುಕನ್ನು ಇಬ್ಬನಿಯಂತೆ ಇರಬೇಕು ಎಂದು ಏಕೆ ಬಯಸುತ್ತಾರೆ?
+* 2. Why does the poet want human life to be like dew?
 * **ರವಿಯ ಕಿರಣಗಳಿಗೆ ಹೇಗೆ ಇಬ್ಬನಿಯು ಮೌನವಾಗಿ ಕರಗಿ ಹೋಗುತ್ತದೆಯೋ** ಹಾಗೆ ಮಾನವನ ಬದುಕು ಇರಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
+* The poet has said that human life should be like how the dew melts silently to the rays of the sun.
 
-### ೩. ನಮ್ಮ ಕರ್ತವ್ಯಗಳನ್ನು ಹೇಗೆ ಮುಗಿಸಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ?
+### 3. ನಮ್ಮ ಕರ್ತವ್ಯಗಳನ್ನು ಹೇಗೆ ಮುಗಿಸಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ?
+* 3. How does the poet say to finish our duties?
 * **ಶಾಂತಿಯಿಂದ ಬದುಕಿ** ನಮ್ಮ ಕರ್ತವ್ಯಗಳನ್ನು ಮುಗಿಸಬೇಕೆಂದು ಕವಿ ಸಿ.ಪಿ.ಕೆ. ಅವರು ಹೆಳಿದ್ದಾರೆ.
+* **Live in peace** Poet C.P.K to finish our duties. He said.
 
 
 ## ಇ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
-### ೧. ಸದ್ದು ಮಾಡದೆ ಬಾಳಬೇಕು ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ಹೋಲಿಕೆಗಳಾವುವು?
+### 1. ಸದ್ದು ಮಾಡದೆ ಬಾಳಬೇಕು ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ಹೋಲಿಕೆಗಳಾವುವು?
+* 1. What are the similes given by the poet to live without noise?
 * ತಟ್ಟೆಯ ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
 * The camphor of the plate dissolves silently.
 * ದೀಪದೆದುರಿಗೆ ಕತ್ತಲು ನಿಶ್ಶಬ್ಧವಾಗಿ ಸರಿಯುತ್ತದೆ. 
@@ -20,32 +25,36 @@
 * Dew melts into water due to sun rays.
 * ಯಾವುದೇ ಶಬ್ದ ಮಾಡದೇ ಹಡಗು ರೇವನ್ನು ಸೇರುತ್ತದೆ. 
 * The ship joins the harbor without making a sound.
-* ಹಾಗೆಯೇ ಮಾನವ ಸದ್ದು ಗದ್ದಲವಿಲ್ಲದೆ ಬಾಳಬೇಕು ಎ೦ದು ಕವಿಗಳು ತಿಳಿಸುತ್ತಾರೆ.
+* ಹಾಗೆಯೇ ಮಾನವ ಸದ್ದು ಮಾಡದೆ ಬಾಳಬೇಕು ಎ೦ದು ಕವಿಗಳು ತಿಳಿಸುತ್ತಾರೆ.
 * Similarly, poets say that human beings should live without noise.
 
-### ೨. ಕೂಗಾಟದ ಬದುಕು ನಿಷ್ಪ್ರಯೋಜಕ ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ನಿದರ್ಶನಗಳಾವುವು?
+### 2. ಕೂಗಾಟದ ಬದುಕು ನಿಷ್ಪ್ರಯೋಜಕ ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ನಿದರ್ಶನಗಳಾವುವು?
+* 2. What are the examples given by the poet that the life of shouting is useless?
 * ಹಸಿಸೌದೆ ಬುಸುಗುಟ್ಟುವಂತೆ ಬದುಕಬಾರದು.
 * Don't live like the crackling wet wood.
 * ಕೂಗಾಡಿ ಹಾರಡಿ  ಪ್ರಯೋಜನವಿಲ್ಲ.
 * Shouting and jumping is of no use.
 * ಸಿಡಿಮದ್ದಿಗೆ ಒ೦ದೇ ಒ೦ದು ಕಿಡಿ ಸೋಕಿದ ತಕ್ಷಣ ಅದು ಶಬ್ದ ಮಾಡಿ ಸಿಡಿದೆಳೆಸುವ೦ತೆ. 
 * As soon as a single spark hits the explosive, it makes a noise and explodes.
-* ಇದರಿ೦ದ ನಷ್ಟವೇ ಹೊರತು ಲಾಭವಿಲ್ಲ. 
-* There is no gain but loss.
+* ಇದರಿ೦ದ ಲಾಭವಿಲ್ಲ. 
+* There is no gain.
 * ಆದ್ದರಿ೦ದ ಸಿಡುಕು ಮಿಡುಕನ್ನು ತೊರೆದು ಮೌನವಾಗಿರಬೇಕೆ೦ದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
 * Therefore, the poet said that you should leave the anger and be silent.
 
-### ೩. ಕರ್ಪೂರದ ಕೆಲಸವೇನು? ಅದು ತನ್ನ ಕೆಲಸವನ್ನು ಹೇಗೆ ಪೂರೈಸುತ್ತದೆ?
+### 3. ಕರ್ಪೂರದ ಕೆಲಸವೇನು? ಅದು ತನ್ನ ಕೆಲಸವನ್ನು ಹೇಗೆ ಪೂರೈಸುತ್ತದೆ?
+* 3. What is the function of camphor? How does it fulfill its function?
 * ತಟ್ಟೆಯಲ್ಲಿರುವ ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
 * The camphor on the plate melts silently.
 * ಇದು ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಪರಿಮಳ ಮತ್ತು ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.
 * It gives fragrance and light in less time.
 * ದೇವರಿಗೆ ಆರತಿ, ಪೂಜೆಗೆ ಸಹಾಯವನ್ನು ಮಾಡುತ್ತದೆ.
 * It helps to give Aarti and to do pooja to God.
-* ಬೆ೦ಕಿಯಲ್ಲಿ ಉರಿದು ತಾನು ಕರಗಿದರೂ ಶಬ್ದವನ್ನು ಮಾಡದೇ ಬೆಳಕನ್ನು ನೀಡಿ ತನ್ನ ಕೆಲಸವನ್ನು ಮೌನವಾಗಿ ಪೂರೈಸುತ್ತದೆ.
-* Even if it melts in a fire, it gives light without making a sound and performs its work silently.
-
-### ೪. ಮಾನವನ ಬದುಕು ಕರ್ಪೂರದಂತೆ ಇರಬೇಕು ಏಕೆ?
+* ಬೆ೦ಕಿಯಲ್ಲಿ ಉರಿದು ತಾನು ಕರಗಿದರೂ, ಅದು ಶಬ್ದವನ್ನು ಮಾಡದೇ ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.
+* In the fire, even though it burns, it gives light without making a sound. 
+* ಅದು ತನ್ನ ಕೆಲಸವನ್ನು ಮೌನವಾಗಿ ಪೂರೈಸುತ್ತದೆ.
+* It silently completes its work.
+### 4. ಮಾನವನ ಬದುಕು ಕರ್ಪೂರದಂತೆ ಇರಬೇಕು ಏಕೆ?
+* 4. Why should human life be like camphor?
 * ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
 * Camphor dissolves silently.
 * ಇದು ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಪರಿಮಳ ಮತ್ತು ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.
@@ -73,7 +82,7 @@
 * The poet has said this about human life.
 * ಮಾನವ ತನ್ನ ಅಹಂಕಾರವನ್ನು ತೊರೆಯಬೇಕು . 
 * Man should leave his ego.
-* ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುವಂತೆ, ರವಿಯ ಕಿರಣಗಳಿಗೆ ಕರಗುವ ಇಬ್ಬನಿಯ ರೀತಿಯಲ್ಲಿ, ಮಾನವನು ಸಿಡುಕು ಮಿಡುಕನು ತೊರೆದು ಮೌನಿಯಾಗಬೇಕು.
+* ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುವಂತೆ, ರವಿಯ ಕಿರಣಗಳಿಗೆ ಕರಗುವ ಇಬ್ಬನಿಯಂತೆ, ಮಾನವನು ಸಿಡುಕು ಮಿಡುಕನು ತೊರೆದು ಮೌನಿಯಾಗಬೇಕು.
 * As camphor melts in silence, as dew melts in the rays of the sun, so man should leave his anger and become silent.
 * ತನ್ನ ಕರ್ತವ್ಯಗಳನ್ನು ಶಾಂತಿಯಿಂದ ಮಾಡಿ ಮುಗಿಸಬೇಕು ಎ೦ದು ಕವಿಗಳು ತಿಳಿಸುತ್ತಾರೆ.
 * The poets say that one should finish his duties in peace.
