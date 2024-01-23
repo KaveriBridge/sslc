@@ -34,7 +34,7 @@
 * What did the guide tell about the tragedies that happened in London?
 *
 * 1666 ರಲ್ಲಿ ಲಂಡನ್‌ನಲ್ಲಿ ದೊಡ್ಡ ಅಗ್ನಿ ದುರಂತ ಸಂಭವಿಸಿತು.
-* In 1666 there was a great fire disaster in London.
+* In 1666 there was a great fire disaster(ದುರಂತ) in London.
 * 
 * ಲಂಡನ್ 3 ದಿನ ಹೊತ್ತಿ ಉರಿಯಿತು. 
 * London burned for 3 days.
@@ -61,10 +61,10 @@
 * Politicians live there.
 * 
 * ಉತ್ತರಕ್ಕೆ ವ್ಯಾಪಾರಿಗಳು ಮತ್ತು ಕಡಿಮೆ ಆದಾಯದವರು ವಾಸಿಸುತ್ತಾರೆ.
-* Traders and low income people live in the north.
+* Traders (ವ್ಯಾಪಾರಿ) and low (ಕಡಿಮೆ) income (ಆದಾಯ) people live in the north.
 * 
 * ಥೇಮ್ಸ್ ನದಿ ದಂಡೆ ಬದಿಯಲ್ಲಿ ವಾಸಿಸುವವರು ಶ್ರೀಮಂತರು.
-* People who live on the banks of the Thames are rich.
+* People who live on the banks of the Thames are rich (ಶ್ರೀಮಂತರು).
 * 
 * ನಮ್ಮ ಮುಂಬಯಿಯ ಸಮುದ್ರ ದಂಡೆಯಲಿ ಇರುವ ಮರೀನ್ ಡ್ರೈವ್ ನಂತೆ.
 * Like Mumbai seafront's Marine Drive.
@@ -76,13 +76,13 @@
 * There are 13 bridges over the River Thames.
 * 
 * ಅದರಲ್ಲಿ ಟವರ್ ಬ್ರಿಜ್ ಪ್ರಮುಖ. 
-* Of which Tower Bridge is the most important.
+* Of which Tower Bridge is the most important (ಪ್ರಮುಖ).
 * 
 * ಇದು ಸಾವಿರ ಟನ್ ತೂಗುತ್ತದೆ. 
 * It weighs a thousand tons.
 * 
-* ಹಡಗುಗಳು ಬಂದಾಗ ಒಂದೂವರೆ ಎರಡು ನಿಮಿಷದಲ್ಲಿ ಮೇಲೆ ಏರುತ್ತದೆ.
-* When the ships arrive, rise within one and a half minutes.
+* ಹಡಗುಗಳು ಬಂದಾಗ ಎರಡು ನಿಮಿಷದಲ್ಲಿ ಮೇಲೆ ಏರುತ್ತದೆ.
+* When the ships arrive, rise within two minutes.
 
 * ಹಡಗುಗಳು ಹೋಗಲು ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ.
 * Makes way for the ships to go.
@@ -124,7 +124,7 @@
 * Here kings got the people they did not like killed.
 * 
 * ರಾಜಮನೆತನಯ ವೈಷಮ್ಯ, ಅಸೂಯೆ, ಕೊಲೆ ಸುಲಿಗೆಗಳ ಸ್ಥಳವಿದು.
-* This is the place of royal feud, jealousy, murder and extortion.
+* This is the place of royal(ರಾಜಮನೆತ) feud (ವೈಷಮ), jealousy (ಅಸೂಯೆ), murder (ಕೊಲೆ) and extortion (ಸುಲಿಗೆ).
 *
 * ರಾಬರ್ಟ್ ಕ್ಲೈವ್ 1757 ರ ಪ್ಲಾಸಿ ಕದನದಲ್ಲಿ ವಶಪಡಿಸಿಕೊಂಡ ಶಸ್ತ್ರ ಇಲ್ಲಿ ಇಡಲಾಗಿದೆ.
 * The weapon(ಶಸ್ತ್ರ) captured(ವಶಪಡಿಸಿಕೊಂಡ) by Robert Clive at the ಕದನ(Battle) of Plassey in 1757 is kept here.
