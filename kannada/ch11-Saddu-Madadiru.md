@@ -1,11 +1,13 @@
 # ಸದ್ದು ಮಾಡದಿರು !
 ## ಆ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
-### 1. ತಿಮಿರಕ್ಕೆ ವೈರಿ ಯಾವುದು? (What is the enemy to darkness?)
-* ತಿಮಿರಕ್ಕೆ ವೈರಿ **ದೀಪ**. (The **lamp** is the enemy to darkness.)
+### 1. ತಿಮಿರಕ್ಕೆ ವೈರಿ ಯಾವುದು? 
+* What is the enemy to darkness?
+* ತಿಮಿರಕ್ಕೆ ವೈರಿ **ದೀಪ**.
+* The **lamp** is the enemy to darkness.
 
 ### 2. ಕವಿ ಮಾನವನ ಬದುಕನ್ನು ಇಬ್ಬನಿಯಂತೆ ಇರಬೇಕು ಎಂದು ಏಕೆ ಬಯಸುತ್ತಾರೆ?
 * 2. Why does the poet want human life to be like dew?
-* **ರವಿಯ ಕಿರಣಗಳಿಗೆ ಹೇಗೆ ಇಬ್ಬನಿಯು ಮೌನವಾಗಿ ಕರಗಿ ಹೋಗುತ್ತದೆಯೋ** ಹಾಗೆ ಮಾನವನ ಬದುಕು ಇರಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
+* **ರವಿಯ ಕಿರಣಗಳಿಗೆ ಹೇಗೆ ಇಬ್ಬನಿಯು ಮೌನವಾಗಿ ಕರಗುವಂತೆ ** ಮಾನವನ ಬದುಕು ಇರಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
 * The poet has said that human life should be like how the dew melts silently to the rays of the sun.
 
 ### 3. ನಮ್ಮ ಕರ್ತವ್ಯಗಳನ್ನು ಹೇಗೆ ಮುಗಿಸಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ?
