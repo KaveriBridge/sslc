@@ -27,6 +27,21 @@
 |Works|ಆರತಕ್ಷತೆ ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು <br> ನಾನೇಕೆ ಕೊರೆಯುತ್ತೇನೆ ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು  <br> ಛಂದೋಮಿತ್ರ  <br> ಕನ್ನಡ ಮೇಘದೂತ  <br> ಮಹಾಭಾರತ ಪಾತ್ರ-ಸಂಗತಿಗಳು <br> ವಚನಕಾರರು ಮತ್ತು ಶಬ್ದಕಲ್ಪ ಒಳನೋಟಗಳು  <br> ಕವಿಗಳ ಬೆನ್ನೇರಿ <br> ಕೈಲಾಸಂ ಬದುಕು-ಬರಹ| Āratakṣate ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು <br> Nānēke koreyuttēne ಮತ್ತು ಇತರ ಪ್ರಬಂಧಗಳು  <br> Chandomitra <br> Kannada Meghadoota <br> Mahābhārata pātra-saṅgatigaḷu<br> Vachanakaras and Shabdakalpa Insights <br> Kavigaḷa bennēri <br> Kailasam Vijvantu-Baraha|
 |Prizes| ನವರತ್ನರಾಂ ಪ್ರಶಸ್ತಿ <br> ವರ್ಧಮಾನ ಪ್ರಶಸ್ತಿ <br> ಕಾವ್ಯಾನಂದ ಪುರಸ್ಕಾರ <br> ಗೊರೂರು ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ <br> ಧರ್ಮಶ್ರೀ ನಗೆರಾಜ ಪ್ರಶಸ್ತಿ  | Navaratnaram ಪ್ರಶಸ್ತಿ <br> Vardhamāna ಪ್ರಶಸ್ತಿ <br> Kāvyānanda ಪುರಸ್ಕಾರ <br> Gorūru ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ <br> Dharmaśrī nagerāja ಪ್ರಶಸ್ತಿ
 
+## ಕುವೆಂಪು
+|Item | Details| In English|
+|-|-|-|
+|Name | ಕುವೆಂಪು | Kuvempu
+|Full name| ಕುಪ್ಪಳಿ ವೆಂಕಟಪ್ಪ ಪುಟ್ಟಪ್ಪ |Kuppali Venkatappa Puttappa|
+|Year-of-birth | ಅವರು 1904 ರಲ್ಲಿ ಜನಿಸಿದರು. | Born in 1904| 
+|Year-of-death | ಅವರು 1994 ರಲ್ಲಿ ನಿಧನರಾದರು. | Died 1994| 
+|Place of birth | ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ ತೀರ್ಥಹಳ್ಳಿ ತಾಲ್ಲೂಕು ಕುಪ್ಪಳಿ | Shimoga District Tirthahalli Taluk Kuppali village|
+|ನಾಟಕ/Dramas|ಬೆರಳ್‌ಗೆ ಕೊರಳ್’,<br>‘ಶೂದ್ರತಪಸ್ವಿ’,<br> ‘ಜಲಗಾರ’ <br>|'Beraḷ‌ge koraḷ’,<br>‘śūdratapasvi’,<br> ‘jalagāra’ <br>|
+|ವಿಮರ್ಶೆ/Review|‘ರಸೋವೈಸಃ’, <br>‘ವಿಭೂತಿ ಪೂಜೆ’, <br>‘ದ್ರೌಪದಿಯ ಸಿರಿಮುಡಿ’|'Rasowaisah', <br>'Vibhuti Puja', <br>'Draupadi's Sirimudi'|
+|ಸಣ್ಣಕಥೆ/Short stories| ‘ನನ್ನ ದೇವರು ಮತ್ತು ಇತರ ಕತೆಗಳು’|'My God and Other Stories'|
+|ಕಾದಂಬರಿ/Novel|‘ಕಾನೂರು ಹೆಗ್ಗಡಿತಿ’, <br> ‘ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು’|'Kanur Heggadithi', <br> 'Brides in the Hills'|
+|ಮಹಾಕಾವ್ಯ/Epic|‘ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ’|'Sri Ramayana Darshanam'|
+|Prizes| ಪದ್ಮಭೂಷಣ, <br> ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ,<br> ರಾಷ್ಟ್ರಕವಿ,<br> ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ,<br> ಪಂಪ ಪ್ರಶಸ್ತಿ,<br> ಕರ್ನಾಟಕ ರತ್ನ ಪ್ರಶಸ್ತಿ| Padma Bhushan, <br> Central Sahitya Akademi Award,<br> National Poet,<br> Jnanpeeth Award,<br> Pampa Award,<br> Karnataka Ratna Award |
+
 ## ಡಾ. ಬಸವರಾಜ ಸಬರದ 
 |Item | Details|In English|
 |-|-|-|
@@ -36,3 +51,4 @@
 |Poem collection | ‘ನನ್ನವರ ಹಾಡು’, <br> ‘ಹೋರಾಟ,’ <br>‘ಮೂಡಲಕ ಕೆಂಪು ಮೂಡ್ಯಾವ’,<br> ‘ನೂರು ಹನಿಗಳು’,<br> ‘ದನಿಯೆತ್ತಿ ಹಾಡೇನ’,<br> ‘ಬೆಳದಿಂಗಳು ಬಿಸಿಲಾತು’ <br> - ಇವು ಅವರ ಕವನ ಸಂಕಲನಗಳು. | 'My Song', <br> 'Horata', <br>'Moodalaka Red Moodyava',<br> 'Nuru Drops',<br> 'Daniyetti Hadena',<br> 'Belamanlu Bisalatu' <br> - these are his Poetry collections.
 |Play| ‘ಪ್ರತಿರೂಪ’, <br> ‘ರೆಕ್ಕೆ ಮೂಡಿದಾಗ’, <br> ‘ನರಬಲಿ’, <br> ‘ಬೆಳ್ಳಕ್ಕಿ ಸಾಲು’ | 'Replica', <br> 'When the wing rises', <br> 'Human Sacrifice', <br> 'Herring Row'
 |Prizes| ದೇವರಾಜ ಬಹದ್ದೂರ್ ಪ್ರಶಸ್ತಿ, <br> ಕುವೆಂಪು ಸಾಹಿತ್ಯ ಪುರಸ್ಕಾರ, <br> ಪೆರ್ಲ ಕೃಷ್ಣಭಟ್ಟ ಪ್ರಶಸ್ತಿ, <br> ಕಾವ್ಯಾನಂದ ಪ್ರಶಸ್ತಿ, <br> ಸಾಹಿತ್ಯ ಶ್ರೀ ಪ್ರಶಸ್ತಿ, <br> ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ <br>| Devaraja Bahadur Award, <br> Kuvempu Sahitya Award, <br> Perla Krishnabhatta Award, <br> Kavananda Award, <br> Sahitya Sri Award, <br> Karnataka Natak Academy Award <br>
+
