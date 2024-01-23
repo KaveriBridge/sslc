@@ -83,7 +83,7 @@
 * 
 * ಹಡಗುಗಳು ಬಂದಾಗ ಎರಡು ನಿಮಿಷದಲ್ಲಿ ಮೇಲೆ ಏರುತ್ತದೆ.
 * When the ships arrive, rise within two minutes.
-
+*
 * ಹಡಗುಗಳು ಹೋಗಲು ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ.
 * Makes way for the ships to go.
 * 
