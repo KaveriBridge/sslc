@@ -86,15 +86,14 @@
 |ಕಾದಂಬರಿ | ಅನಾಥೆ <br> ಆಕಾಶ ದೀಪ | Anāthe <br> ākāśa dīpa
 |Prizes| ಪಂಪ ಪ್ರಶಸ್ತಿ, <br> ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, <br> ಕೇಂದ್ರ ಹಾಗೂ ರಾಜ್ಯ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ,<br> ಕೇರಳದ ಕುಮಾರನ್ ಆಶಾನ್ ಪ್ರಶಸ್ತಿ, <br> ಮಧ್ಯಪ್ರದೇಶದ ಕಬೀರ್ ಸಮ್ಮಾನ್ ಪ್ರಶಸ್ತಿ<br> | Pampa Award, <br> Rajyotsava Award, <br> Central and State Sahitya Akademi Award,<br> Kerala Kumaran Ashan Award, <br> Madhya Pradesh Kabir Samman Award<br> |
 
+## ಕುಮಾರವ್ಯಾಸ
+|Item | Details| In English|
+|-|-|-|
+|Name | ಕುಮಾರವ್ಯಾಸ | Kumaravyasa
+|Full name | 'ಗದುಗಿನ ನಾರಾಯಣಪ್ಪ'| 'Gadugina Narayanappa'|
+|Year-of-birth | ೧೪೩೦ | 1430
+|Place of birth | ಗದುಗಿನ ಕೋಳಿವಾಡ | Gadugina Koliwada
+|ಕವನ ಸಂಕಲನ |   ‘ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ’ (known as  ‘ಗದುಗಿನ ಭಾರತ’)  |'Karnataka Bharat Kathamanjari' (known as 'Gadugina Bharat')
+|Work|ಐರಾವತ |Airavata|
+|Known as | ‘ರೂಪಕ ಸಾಮ್ರಾಜ್ಯ ಚಕ್ರವರ್ತಿ’ <br> ಕುಮಾರವ್ಯಾಸ | "Rūpaka sāmrājya cakravarti" <br> kumāravyāsa |
 
-| Item | Details | In English |
-|-------|---------|------------|
-| Name | ಕುಮಾರವ್ಯಾಸ | Kumaravyasa |
-| Period | ೱ೩೭೦–೧೪೫೦ ಸಂವತ್ಸರ | 1370–1450 CE |
-| Place of Birth | ಕುಂದಾಪುರ | Kundapura |
-| Major Work | ಕರ್ಣಾಭರ | Karnabhara |
-| Contribution | ಮಹಾಭಾರತ ರಚನೆಯಲ್ಲಿ ಭಾಷಾಂತರ ಮಾಡಿದ ಪ್ರಮುಖ ಕವಿ | Renowned poet for translating the Mahabharata into Kannada |
-| Literary Style | ಸಾಮಾನ್ಯ ಜನಸ್ಸಿಗೆ ಸುಲಭವಾಗಿ ಅರ್ಥವಾಗುವ ಭಾಷಾ ಶೈಲಿ | Simple and accessible style for the common people |
-| Legacy | ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಮೂಲ್ಯ ಸಂಪಾದನೆ | Invaluable contribution to Kannada literature |
-| Notable Work | ಕರ್ಣಾಭರ, ಗದ್ಯಸರ್ವಸ್ವ, ಜಂಬವಾಣಿ | Karnabhara, Gadyasarvasva, Jambavani |
-| Recognition | ಕರ್ನಾಟಕ ಸರ್ಕಾರದಿಂದ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ | State award from the Government of Karnataka |
