@@ -1,54 +1,55 @@
 # ಟುಸ್ಸೋಡ್ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂ (Tussauds Wax Museum)
-
-* ಡಾ. ಬಸವಪ್ರಭು ಪಾಟೀಲ  ಮತ್ತು ಕೆ. ಸಿದ್ಧಯ್ಯಸ್ವಾಮಿ ಸೇರಿ ಬರೆದ **‘ಯೂರೋಪಿನಲ್ಲಿ....’** ಪ್ರವಾಸ ಸಾಹಿತ್ಯದಿಂದ ಪ್ರಸ್ತುತ ಲೇಖನವನ್ನು ಆರಿಸಲಾಗಿದೆ.
+## About
+* ಡಾ. ಬಸವಪ್ರಭು ಪಾಟೀಲ  ಮತ್ತು ಕೆ. ಸಿದ್ಧಯ್ಯಸ್ವಾಮಿ ಸೇರಿ ಬರೆದ **‘ಯೂರೋಪಿನಲ್ಲಿ....’** ಪ್ರವಾಸ ಸಾಹಿತ್ಯದಿಂದ ಆರಿಸಲಾಗಿದೆ.
 * The present article is selected from the travel literature **'In Europe...'** co-authored by Dr. Basavaprabhu Patil and K.Siddhayaswamy.
--------------------------------------------------------
-## (I) Answer the following questions in one sentence
--------------------------------------------------------
 
-#### 1. ಲಂಡನ್‍ನಲ್ಲಿರುವ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂಗೆ ಟುಸ್ಸೋಡ್ ಎಂಬ ಹೆಸರು ಹೇಗೆ ಬಂತು?
+## ಆ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ. (Answer the following questions in one sentence)
+### 1. ಲಂಡನ್‍ನಲ್ಲಿರುವ ವ್ಯಾಕ್ಸ್ ಮ್ಯೂಸಿಯಂಗೆ ಟುಸ್ಸೋಡ್ ಎಂಬ ಹೆಸರು ಹೇಗೆ ಬಂತು?
+* How did the wax museum in London get the name Tussauds?
 * **ಮೇಡಂ ಟುಸ್ಸೋಡ್ ವ್ಯಾಕ್ಸ್ ಗೊಂಬೆಗಳನ್ನು ಮೊದಲು ಮಾಡಿದ್ದರಿಂದ** ಆ ಮ್ಯೂಸಿಯಂಗೆ ಅವರ ಹೆಸರನ್ನು ಇಡಲಾಗಿದೆ.
-
-#### 1. How did the wax museum in London get the name Tussauds?
 * **Madame Tussaud was the first to make wax dolls** so the museum is named after her.
---------------------------------------------------------------------------------------------------------------
-#### 2. ಲಂಡನ್‍ನಲ್ಲಿರುವ ಪ್ರಸಿದ್ಧ ವಿಶ್ವವಿದ್ಯಾಲಯಗಳು ಯಾವುವು?
+
+### 2.  ಲಂಡನ್‍ನಲ್ಲಿರುವ ಪ್ರಸಿದ್ಧ ವಿಶ್ವವಿದ್ಯಾಲಯಗಳು ಯಾವುವು?
+* What are the famous universities in London?
 * ಲಂಡನ್ನಿನಲ್ಲಿ **ಕೇಂಬ್ರಿಜ್ ಹಾಗೂ ಆಕ್ಸ್ಫರ್ಡ್** ಪ್ರಸಿದ್ಧ ವಿಶ್ವವಿದ್ಯಾಲಯಗಳಿವೆ. 
-
-#### 3. What are the famous universities in London?
 * There are famous universities **Cambridge and Oxford** in London.
---------------------------------------------------------------------------------------------------------------
-#### 3. ಲಂಡನ್ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮುಂದೆ ಗಾಂಧೀಜಿಯವರ ಪ್ರತಿಮೆಯನ್ನು ಏಕೆ ಸ್ಥಾಪಿಸಲಾಗಿದೆ?
+
+### 3. ಲಂಡನ್ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮುಂದೆ ಗಾಂಧೀಜಿಯವರ ಪ್ರತಿಮೆಯನ್ನು ಏಕೆ ಸ್ಥಾಪಿಸಲಾಗಿದೆ?
+* Why is the statue of Gandhiji installed in front of London University?
 * ಲಂಡನ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ **ಗಾಂಧೀಜಿ ಓದಿದ್ದ ಕಾರಣ** ಅವರ ಪ್ರತಿಮೆಯನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿದೆ.
-
-#### 3. Why is the statue of Gandhiji installed in front of London University?
 * **Gandhiji was a student at London University**. Hence a statue of Gandhi was installed in front of the university.
---------------------------------------------------------------------------------------------------------------
-#### 4. ಥೇಮ್ಸ್ ನದಿ ದಡದಲ್ಲಿರುವ ಜನವಸತಿಯನ್ನು ಲೇಖಕರು ಯಾವುದಕ್ಕೆ ಹೋಲಿಸುತ್ತಾರೆ?
+
+### 4. ಥೇಮ್ಸ್ ನದಿ ದಡದಲ್ಲಿರುವ ಜನವಸತಿಯನ್ನು ಲೇಖಕರು ಯಾವುದಕ್ಕೆ ಹೋಲಿಸುತ್ತಾರೆ?
+* What does the author compare the settlement on the banks of the Thames to? 
 * ಥೇಮ್ಸ್ ನದಿ ದಡದಲ್ಲಿರುವ ಜನವಸತಿಯನ್ನು ಲೇಖಕರು **ಮುಂಬಯಿಯ ಮರೀನ್ ಡ್ರೈವ್ ಗೆ** ಹೋಲಿಸುತ್ತಾರೆ.
-
-#### 4. What does the author compare the settlement on the banks of the Thames to? 
 * The author compares the settlement on the banks of the Thames to **Marine Drive in Mumbai**.
---------------------------------------------------------------------------------------------------------------
-#### 5. ಲಂಡನ್‍ನ ಭೂ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?
-* ಲಂಡನ್‍ನ ಭೂ ವಿಸ್ತೀರ್ಣ **610 ಚದುರ ಮೈಲು**.
 
-#### 5. What is the land area of London?
+### 5. ಲಂಡನ್‍ನ ಭೂ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?
+* What is the land area of London?
+* ಲಂಡನ್‍ನ ಭೂ ವಿಸ್ತೀರ್ಣ **610 ಚದುರ ಮೈಲು**.
 * The land area of London is **610 square miles**.
---------------------------------------------------------------------------------------------------------------
-## (II) Answer the following questions in three to four sentences.
-* ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
---------------------------------------------------------------------------------------------------------------
-#### 1.ಲಂಡನ್‍ನಲ್ಲಿ ಸಂಭವಿಸಿದ ದುರಂತಗಳ ಬಗ್ಗೆ ಗೈಡ್ ತಿಳಿಸಿದ ವಿಚಾರಗಳೇನು?
-* 1666 ರಲ್ಲಿ ಲಂಡನ್‌ನಲ್ಲಿ ದೊಡ್ಡ ಅಗ್ನಿ ದುರಂತ ಸಂಭವಿಸಿ 3 ದಿನ ಲಂಡನ್ ಹೊತ್ತಿ ಉರಿಯಿತಂತೆ. 
-* 13000 ಮನೆಗಳು, 80 ಚರ್ಚ್ಗಳು ಸುಟ್ಟುಹೋದವಂತೆ. 
-* ಇದರ ನೆನಪಿಗಾಗಿ 200 ಅಡಿ ಎತ್ತರದ ಸ್ತಂಭ ನಿಲ್ಲಿಸಿದ್ದಾರಂತೆ. 
-* ಅದಕ್ಕಿಂತ ಒಂದೆರಡು ವರುಷದ ಹಿಂದೆ ಪ್ಲೇಗ್‌ಗೆ ಲಂಡನ್ನಿನಲ್ಲಿ ಹನ್ನೆರಡು - ಹದಿಮೂರು ಸಾವಿರ ಜನ ಸತ್ತು ಹೋದರಂತೆ ಎಂದು ತಿಳಿಸಿದ.
-#### 1. What did the guide tell about the tragedies that happened in London?
-* In 1666, a big fire disaster happened in London and London burned for 3 days.
+
+## ಇ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
+### 1. ಲಂಡನ್‍ನಲ್ಲಿ ಸಂಭವಿಸಿದ ದುರಂತಗಳ ಬಗ್ಗೆ ಗೈಡ್ ತಿಳಿಸಿದ ವಿಚಾರಗಳೇನು?
+* What did the guide tell about the tragedies that happened in London?
+*
+* 1666 ರಲ್ಲಿ ಲಂಡನ್‌ನಲ್ಲಿ ದೊಡ್ಡ ಅಗ್ನಿ ದುರಂತ ಸಂಭವಿಸಿತು.
+* In 1666 there was a great fire disaster in London.
+* 
+* ಲಂಡನ್ 3 ದಿನ ಹೊತ್ತಿ ಉರಿಯಿತು. 
+* London burned for 3 days.
+* 
+* 13000 ಮನೆಗಳು, 80 ಚರ್ಚ್ಗಳು ಸುಟ್ಟವು.
 * 13000 houses, 80 churches were burnt.
-* A 200 feet high pillar has been erected in memory of this.
-* A couple of years ago it was said that twelve to thirteen thousand people died in London due to the plague.
+* 
+* ಇದರ ನೆನಪಿಗಾಗಿ 200 ಅಡಿ ಎತ್ತರದ ಸ್ತಂಭ ನಿಲ್ಲಿಸಿದ್ದಾರೆ.
+* A 200 ಅಡಿ(feet) high ಸ್ತಂಭ(pillar) has been erected ನೆನಪಿಗಾಗಿ(in its memory).
+* 
+* ಅದರ ಕೆಲವು ವರ್ಷಗಳ ಹಿಂದೆ ಪ್ಲೇಗ್‌ಗೆ ಹನ್ನೆರಡು - ಹದಿಮೂರು ಸಾವಿರ ಜನ ಸತ್ತರು. 
+* A few years before that, the plague killed twelve to thirteen thousand people.
+*
+* ಇದು ಲಂಡನ್‍ನಲ್ಲಿ ಸಂಭವಿಸಿದ ದುರಂತಗಳ ಬಗ್ಗೆ ಗೈಡ್ ತಿಳಿಸಿದ ವಿಚಾರಗಳು.
+* These are the thoughts of the guide about the tragedies that happened in London.
 --------------------------------------------------------------------------------------------------------------
 #### 2. ಥೇಮ್ಸ್ ನದಿಯ ಉತ್ತರ ಹಾಗೂ ದಕ್ಷಿಣಕ್ಕೆ ಯಾವ ವರ್ಗದ ಜನರು ವಾಸಿಸುತ್ತಾರೆ?
 * ಥೇಮ್ಸ್ ನದಿಯ ದಕ್ಷಿಣಕ್ಕೆ ಉದ್ಯಮಗಳು, ಫ್ಯಾಕ್ಟರಿಗಳು ಹೆಚ್ಚಾಗಿ ರಾಜಕಾರಣಿಗಳು ಇರುತ್ತಾರಂತೆ. 
