@@ -6,19 +6,19 @@
 * The **lamp** is the enemy to darkness.
 
 ### 2. ಕವಿ ಮಾನವನ ಬದುಕನ್ನು ಇಬ್ಬನಿಯಂತೆ ಇರಬೇಕು ಎಂದು ಏಕೆ ಬಯಸುತ್ತಾರೆ?
-* 2. Why does the poet want human life to be like dew?
+* Why does the poet want human life to be like dew?
 * **ರವಿಯ ಕಿರಣಗಳಿಗೆ ಹೇಗೆ ಇಬ್ಬನಿಯು ಮೌನವಾಗಿ ಕರಗುವಂತೆ** ಮಾನವನ ಬದುಕು ಇರಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ.
 * The poet has said that human life should be like how the dew melts silently to the rays of the sun.
 
 ### 3. ನಮ್ಮ ಕರ್ತವ್ಯಗಳನ್ನು ಹೇಗೆ ಮುಗಿಸಬೇಕೆಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ?
-* 3. How does the poet say to finish our duties?
+* How does the poet say to finish our duties?
 * **ಶಾಂತಿಯಿಂದ ಬದುಕಿ** ನಮ್ಮ ಕರ್ತವ್ಯಗಳನ್ನು ಮುಗಿಸಬೇಕೆಂದು ಕವಿ ಸಿ.ಪಿ.ಕೆ. ಅವರು ಹೆಳಿದ್ದಾರೆ.
 * Poet CPK has said that we should **live in peace** and finish our duties.
 
 
 ## ಇ) ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
 ### 1. ಸದ್ದು ಮಾಡದೆ ಬಾಳಬೇಕು ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ಹೋಲಿಕೆಗಳಾವುವು?
-* 1. What are the similes given by the poet to live without noise?
+* What are the similes given by the poet to live without noise?
 * ತಟ್ಟೆಯ ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
 * The camphor of the plate dissolves silently.
 * ದೀಪದೆದುರಿಗೆ ಕತ್ತಲು ನಿಶ್ಶಬ್ಧವಾಗಿ ಸರಿಯುತ್ತದೆ. 
@@ -31,7 +31,7 @@
 * Similarly, poets say that human beings should live without noise.
 
 ### 2. ಕೂಗಾಟದ ಬದುಕು ನಿಷ್ಪ್ರಯೋಜಕ ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡುವ ನಿದರ್ಶನಗಳಾವುವು?
-* 2. What are the examples given by the poet that the life of shouting is useless?
+* What are the examples given by the poet that the life of shouting is useless?
 * ಹಸಿಸೌದೆ ಬುಸುಗುಟ್ಟುವಂತೆ ಬದುಕಬಾರದು.
 * Don't live like the crackling wet wood.
 * ಕೂಗಾಡಿ ಹಾರಡಿ  ಪ್ರಯೋಜನವಿಲ್ಲ.
@@ -44,7 +44,7 @@
 * Therefore, the poet said that you should leave the anger and be silent.
 
 ### 3. ಕರ್ಪೂರದ ಕೆಲಸವೇನು? ಅದು ತನ್ನ ಕೆಲಸವನ್ನು ಹೇಗೆ ಪೂರೈಸುತ್ತದೆ?
-* 3. What is the function of camphor? How does it fulfill its function?
+* What is the function of camphor? How does it fulfill its function?
 * ತಟ್ಟೆಯಲ್ಲಿರುವ ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
 * The camphor on the plate melts silently.
 * ಇದು ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಪರಿಮಳ ಮತ್ತು ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.
@@ -56,7 +56,7 @@
 * ಅದು ತನ್ನ ಕೆಲಸವನ್ನು ಮೌನವಾಗಿ ಪೂರೈಸುತ್ತದೆ.
 * It silently completes its work.
 ### 4. ಮಾನವನ ಬದುಕು ಕರ್ಪೂರದಂತೆ ಇರಬೇಕು ಏಕೆ?
-* 4. Why should human life be like camphor?
+* Why should human life be like camphor?
 * ಕರ್ಪೂರ ಮೌನವಾಗಿ ಕರಗುತ್ತದೆ.
 * Camphor dissolves silently.
 * ಇದು ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಪರಿಮಳ ಮತ್ತು ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.
@@ -75,7 +75,7 @@
 
 ## ಉ) ಸಂದರ್ಭದೊಡನೆ ವಿವರಿಸಿರಿ.
 ### ೧. ಶಾಂತಿಯಲಿ ಬದುಕಿ ನೀ ಕರ್ತವ್ಯವನು ಮುಗಿಸು.
-* Same asnwer as the second question.
+* Same answer as the second question.
 
 ### ೨. ಸಿಡುಕು ಮಿಡುಕನು ತೊರೆದು ಮೌನಿಯಾಗು
 * ಈ ವಾಕ್ಯವನ್ನು **ಸಿ.ಪಿ.ಕೆ.** ಅವರ **"ಬೊಗಸೆ"** **ಕವನ ಸಂಕಲನದ** **“ಸದ್ದು ಮಾಡದಿರು"** ಪದ್ಯದಿಂದ ಆರಿಸಲಾಗಿದೆ.
