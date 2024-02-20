@@ -24,3 +24,27 @@
 * Land Development Banks
 * Indigenous Banks
 * Co-operative Banks.
+
+### What are the functions of Reserve Bank of India ?
+* Monopoly of note issue
+* Banker to government
+* Banker’s Bank
+* National Clearing House
+* Controller of Credit
+* Custodian of Foreign Exchange Reserves
+* Promotion of Banking Habits.
+
+### List out the advantages of opening a bank account.
+* Facilitates safe custody of money
+* Helps in making payments
+* Helps in collection of money
+* Helps to get advances and loans
+* Helps in smooth financial transactions
+* Helps to get safe deposit locker facility.
+
+### What are the steps followed to open a bank account ?
+### Banks collect service charges from which type of bank accounts ?
+### Banks provide a lot of services to its consumers. Explain.
+### How is Reserve Bank of India striving hard for the betterment of its country with its functions ?
+### What are the differences between Savings bank account and Current account ?
+
