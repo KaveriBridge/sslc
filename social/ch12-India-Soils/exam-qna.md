@@ -7,3 +7,9 @@ Ans. : (Any four)
 * Use of top soil
 * Floods
 * Over irrigation. 
+### How are we preventing soil erosion in recent days ?
+### Soil erosion leads to many problems. Justify.
+### How is red soil formed ?
+### What are the effects of soil erosion ?
+### How is Laterite soil formed ?
+### How does soil erosion affect agriculture ?
