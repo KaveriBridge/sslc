@@ -6,7 +6,6 @@
 ### Why are mangrove forests of Gangetic Delta called Sundarbans ?
 ### Why are the Tropical Deciduous Forests known as ‘Monsoon Forests’ ? (1-mark)
 * shed their leaves during spring or early summer
-### Which type of forests are found in the river deltas ?
 ### Which forest grows Sandal wood ?
 ### What is the reason for the forests to be evergreen ?
 ### The areas under forest are declining in recent years. Why ?
