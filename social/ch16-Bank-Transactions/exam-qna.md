@@ -11,3 +11,16 @@
 * Conducting Government transactions. 
 
 
+### Which are the types of Bank Account ? (2-marks)
+* Savings Bank Account
+* Current Account
+* Recurring Deposit Account
+* Term / Fixed Deposit Account
+
+### List out the types of banks. (2-marks)
+* Central Bank / Reserve Bank of India
+* Commercial Banks
+* Industrial Development Banks
+* Land Development Banks
+* Indigenous Banks
+* Co-operative Banks.
