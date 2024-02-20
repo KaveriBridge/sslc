@@ -29,3 +29,21 @@ Ans. : (Any four)
 ### How are we preventing soil erosion in recent days ?
 ### How is Laterite soil formed ?
 ### How does soil erosion affect agriculture ?
+* Loss of fertility of soil
+* Change of the course of rivers
+* Decreases ground water level
+* Decreases moisture in soil
+* Reduces capacity of the reservoirs.
+### The type of soil which is largely found in Rajasthan is (1-mark)
+* Desert soil
+### 18. Which soil is also called ‘Regur Soil’ ?
+*  Black soil
+### Mention the types of soil. (2-marks)
+* Alluvial soil
+* Black soil
+* Red soil
+* Laterite soil
+* Desert soil
+* Mountain soil
+### Black soil is suitable for dry farming as it
+* has high moisture retention capacity
