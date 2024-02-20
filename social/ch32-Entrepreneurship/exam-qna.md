@@ -1,5 +1,16 @@
+### Entrepreneurship is a creative activity. How ?
+### List out the functions of an entrepreneur.
+* Prepares various plans for business
+* Organises factors of production
+* Takes decisions
+* Co-ordinates things effectively
+* Introduces new methods
+* Handles budget of his concern
+* Bears risks and uncertainty
+* Gives directions.
+
 ### Mention the characteristics of an entrepreneur.
- * Creativity
+* Creativity
 * Innovation
 * Leadership
 * Self confidence
