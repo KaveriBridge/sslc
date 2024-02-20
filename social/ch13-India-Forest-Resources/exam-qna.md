@@ -18,6 +18,7 @@
 ### Which forest grows Sandal wood ? (1-mark)
 * The tropical deciduous forests
 ### What is the reason for the forests to be evergreen ?
+* Annual rainfall exceeding 250 cm.
 ### The areas under forest are declining in recent years. Why ?
 ### Which one of the following forests refer to the stilt like roots ?
 * Mangrove forests
