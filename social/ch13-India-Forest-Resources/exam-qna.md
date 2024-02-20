@@ -17,8 +17,9 @@
 * shed their leaves during spring or early summer
 ### Which forest grows Sandal wood ? (1-mark)
 * The tropical deciduous forests
-### What is the reason for the forests to be evergreen ?
+### What is the reason for the forests to be evergreen ?  (1-mark)
 * Annual rainfall exceeding 250 cm.
-### The areas under forest are declining in recent years. Why ?
-### Which one of the following forests refer to the stilt like roots ?
+### Which one of the following forests refer to the stilt like roots ? (1-mark)
 * Mangrove forests
+### The areas under forest are declining in recent years. Why ?
+
