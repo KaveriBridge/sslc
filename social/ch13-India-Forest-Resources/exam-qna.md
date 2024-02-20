@@ -15,7 +15,8 @@
 * The ‘Sundari’ trees are found in plenty in these forests.
 ### Why are the Tropical Deciduous Forests known as ‘Monsoon Forests’ ? (1-mark)
 * shed their leaves during spring or early summer
-### Which forest grows Sandal wood ?
+### Which forest grows Sandal wood ? (1-mark)
+* The tropical deciduous forests
 ### What is the reason for the forests to be evergreen ?
 ### The areas under forest are declining in recent years. Why ?
 ### Which one of the following forests refer to the stilt like roots ?
