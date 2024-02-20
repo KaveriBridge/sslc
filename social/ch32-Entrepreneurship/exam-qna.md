@@ -1,4 +1,12 @@
 ### Entrepreneurship is a creative activity. How ?
+* Ability to create and build something
+* Knack of sensing the opportunity
+* Contradiction
+* Attitude of seeking opportunity
+* Take calculated risks
+* Derive setting up of benefits
+* Organised and purposeful
+  
 ### List out the functions of an entrepreneur.
 * Prepares various plans for business
 * Organises factors of production
