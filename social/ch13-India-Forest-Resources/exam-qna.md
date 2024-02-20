@@ -1,7 +1,8 @@
 ### What are the measures taken for conservation of forests in India ?
 ### Which state of India has the largest area under forests ? (1-mark)
 * Madhya Pradesh.
-### Which are the forests found in river deltas of eastern coast of India ?
+### Which are the forests found in river deltas of eastern coast of India ? (1-mark)
+* Mangrove
 ### Why are mangrove forests of Gangetic Delta called Sundarbans ?
 ### Why are the Tropical Deciduous Forests known as ‘Monsoon Forests’ ? (1-mark)
 * shed their leaves during spring or early summer
