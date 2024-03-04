@@ -45,34 +45,36 @@
 #### (1) ಮರವನ್ನು ಬಿಟ್ಟು ಹೋಗದೆ ಇರಲು ಗಿಳಿಯು ನೀಡಿದ ಸಮರ್ಥನೆ ಏನು? 
 * "ಅನೇಕ ವರ್ಷದಿಂದ ಈ ಮರ ನನಗೆ ಆಶ್ರಯ ನೀಡಿದೆ. 
 * ಹಣ್ಣುಗಳನ್ನು ಕೊಟ್ಟಿದೆ.
-* ನೆರಳು ಮತ್ತು ಹಸಿರು ಸಂತೋಷವನ್ನು ನೀಡಿದೆ.
-* ಆದರೆ ಈಗ ದುರದೃಷ್ಟದಿಂದ ಮರಕ್ಕೆ ರೋಗ ಬಂದಿದೆ ಮತ್ತು ಅದು ಒಣಗಿದೆ. 
-* ಈ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ನಾನು ಅದನ್ನು ಬಿಟ್ಟು ಇನ್ನೊಂದು ಮರಕ್ಕೆ ಹೋಗಿ ಕೃತಘ್ನ ಆಗಲಾರೆ.
+* ನೆರಳು ನೀಡಿದೆ.
+* ಆದರೆ ಈಗ ದುರದೃಷ್ಟದಿಂದ ಮರಕ್ಕೆ ರೋಗ ಬಂದಿದೆ.
+* ಅದು ಒಣಗಿದೆ. 
+* ಈಗ ನಾನು ಅದನ್ನು ಬಿಟ್ಟು ಇನ್ನೊಂದು ಮರಕ್ಕೆ ಹೋಗಿ ಕೃತಘ್ನ ಆಗಲಾರೆ.
 * ನಾನು ಇಲ್ಲೇ ಇರುತ್ತೇನೆ.
 * ಮರಕ್ಕೆ ಒಳ್ಳೆಯ ದಿನ ಬರಲಿ ಎಂದು ಬಯಸುತ್ತೇನೆ"
 * ಹೀಗೆ ಗಿಳಿ ತಾನು ಮರದಲ್ಲಿ ಇರುವುದಕ್ಕೆ ಕಾರಣಗಳನ್ನು ನೀಡಿತು.
 #### (1) What is the parrot's justification for not leaving the tree?
-* "This tree has sheltered me for many years.
-* Has given fruits.
-* Shade and green gave happiness.
-* But now unfortunately the tree is diseased and withered.
-* In this situation I cannot leave it and go to another tree and be ungrateful.
-* I will stay here.
-* Wish the tree a good day"
-* How the parrot gave reasons for being in the tree.
+* This tree has sheltered me for many years.
+* It has provided fruits.
+* It has given shade.
+* But now, unfortunately, the tree has fallen sick.
+* It is withering away.
+* I cannot be ungrateful and abandon it now to go to another tree.
+* I will stay right here.
+* I hope for good days for the tree."
+* In this way, the bird explained the reasons for its presence in the tree.
 -------------------------------------------------------------------------------------------------------------- 
 #### (2) ಸಾಮಾನ್ಯವಾದ ಲೋಕವರ್ತನೆ ಯಾವುದು? 
-* ಸುಖ ಸಂಪತ್ತಿನ ಕಾಲದಲ್ಲಿ ಜೊತೆಗೆ ಇರುತಾರೆ. 
-* ಆದರೆ ದುರ್ಭರ ಗಳಿಗೆಯಲ್ಲಿ ಬಿಟ್ಟು ಹೋಗುತ್ತಾರೆ. 
-* ಉಪಕಾರ ಸ್ಮರಣೆ ಮಾಡುವುದಿಲ್ಲ. 
+* ಸುಖದಲ್ಲಿ ಜೊತೆಗೆ ಇರುತಾರೆ. 
+* ಆದರೆ ಕಷ್ಟ ಬಂದಾಗ ಬಿಟ್ಟು ಹೋಗುತ್ತಾರೆ. 
+* ಅವರಿಗೆ ಉಪಕಾರ ನೆನಪು ಇರುವುದಿಲ್ಲ 
 * ಒಳ್ಳೆಯ ದಿನ ಬರಲಿ ಎಂದು ಹಾರೈಸುವುದಿಲ್ಲ.
 * ಇದು ಸಾಮಾನ್ಯವಾದ ಲೋಕವರ್ತನೆ.
 #### (2) What is the general attitude?
-* In the time of happiness and wealth, the flame will be there.
-* But they leave at the worst moment.
-* Does not do favors.
-* Don't wish for a good day.
-* This is a common attitude.
+* They stay together in happiness.
+* But when hardship comes, they leave.
+* They do not remember favors.
+* They do not hope for better days.
+* This is a common human behavior.
 --------------------------------------------------------------------------------------------------------------
 #### (3) ಗಿಳಿಯು ಇಂದ್ರನನ್ನು ಯಾವ ವರವ ಕೇಳಿತು? 
 * "ದೇವರಾಜ, ಈ ಮರವು ಮೊದಲಿನಂತೆ ಹಸಿರಿನಿಂದ ನಳನಳಿಸುವ, ಫಲಪುಷ್ಫ ಭಾರದಿಂದ ಬೀಗುವ, ನೆರಳು ಕೊಡುವ  ವರವನ್ನು ದಯಪಾಲಿಸು!" ಎಂದು ಗಿಳಿಯು ಇಂದ್ರನಿಂದ ವರವನ್ನು ಕೇಳಿತು.
