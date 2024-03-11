@@ -20,12 +20,32 @@
 
 ## 7. द्वित्रैः वाक्यैः उत्तरं लिखत (Write the answer in two sentences)।
 ### 1. विश्वसंस्कृतपुस्तकमेलायां के के अंशाः आसन् ? (What were the parts of the World Sanskrit Book Fair?)
-* विश्वसंस्कृतपुस्तकमेलायां नानाविधानां ग्रन्थानाम्‌ आपणाः, अनेकाः चित्रप्रदशिन्यः, मनोरजञ्जनकार्यक्रमाः, संस्कृतग्रामः, खाद्यापणाः, स्पर्धावल्यः, शताधिकनूतनग्रन्थलोकार्पणम्‌ इत्यादयः विविधाः कार्यक्रमाः आसन्‌ ।
-* The Vishwa Sanskrit Book Fair featured various book shops, several picture exhibitions, entertainment programmes, Sanskrit village, food shops, competitions, launch of more than 100 new books etc.
-### 2. पुस्तकमेलायाः वेदिकायां के कार्यक्रमाः अभवन् ? (What events took place at the book fair stand?)
-* पुस्तकमेलायाः वेदिकायां काव्य-शास्त्रादीनां चिन्तनगोष्ठ्यः, विद्वत्‌-सम्माननम्‌, अभ्यागतानां भाषणानि नूतनमग्रन्थानां लोकार्पणं च अभवन्‌ ।
-* Seminars on poetry and scripture, honoring of scholars, speeches by visitors and launching of new books were held on the podium of the book fair.
+* विश्व संस्कृत पुस्तक मेलायां विविधाः कार्यक्रमाः आसन्।
+* नाना विधानां ग्रन्थानाम्‌ आपणाः आसन्‌ ।
+* अनेकाः चित्रप्रदशिन्यः आसन्‌ ।
+* मनोरजञ्जन कार्यक्रमाः आसन्‌ ।
+* संस्कृतग्रामः आसीत्।
+* खाद्यापणाः आसन्‌ ।
+* अनेकाः स्पर्धावल्यः आसन्‌ ।
+* शत अधिक नूतन ग्रन्थ लोक आर्पणम्‌  ।
+* There were various programs at the World Sanskrit Book Fair.
+* There were shops selling various kinds of books.
+* There were many picture exhibitors.
+* There were entertainment programmes.
+* It was a Sanskrit village.
+* There were food stalls.
+* There were many competitors.
+* More than a hundred new books offered to the public.
 
+### 2. पुस्तकमेलायाः वेदिकायां के कार्यक्रमाः अभवन् ? (What events took place at the book fair stand?)
+* पुस्तक मेलायाः वेदिकायां काव्य-शास्त्रादीनां चिन्तन गोष्ठ्यः कृताः
+* विद्वांसः सम्माननम् कृतम् ।
+* अभ्यागतानां भाषणं कृतम् ।
+* नूतनम ग्रन्थानां लोकार्पणं कृतम्।
+* Seminars on poetry and scripture were held on the podium of the book fair
+* Scholars were honored.
+* Speeches were delivered to the visitors.
+* New books were launched.
 ## 8. कर्णाटकभाषया आङ्ग्लभाषया वा उत्तरं लिखत (Write the answer in Karnataka or English)
 ### 1. संस्कृतग्रामस्य वैशिष्ट्यं वर्णयत । (Describe the characteristics of a Sanskrit village.)
 #### Kannada
