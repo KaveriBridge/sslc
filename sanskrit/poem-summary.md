@@ -1,6 +1,16 @@
 # सनातनी नाे बध्नाति
 * This verse is selected from the poem "सनातनी नाे बध्नाति".
 
+## Verse 1
+||
+|-|
+|भाषा भिन्ना वेषो भिन्नः नीतिर्भिन्ना नियमो भिन्नः ।|
+|भिन्ना जातिः भिन्नञ्च कुलम भिन्नावेव हि मतधर्मौ ।।१।।|
+|Language is different, appearance is different.|
+|Ethics are different, rules are different.|
+|Caste is different, and so is family.|
+|Indeed, in my opinion, religion is also different.|
+
 ## Verse 2
 |2020 Sup|
 |-|
