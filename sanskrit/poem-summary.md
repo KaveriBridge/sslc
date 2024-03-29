@@ -53,4 +53,9 @@
 |That is the ancient Indian culture.|
 |The same eternal culture is the formula that unites us all |
 
-
+## Verse 6
+||
+|-|
+|अत उच्चैरुद्घोषः क्रियते नैव च भेदोऽस्त्यस्मासु ।|
+|भारतदेशे जनता सर्वा समा न भेदः कश्चिदपि |
+||
