@@ -1,6 +1,16 @@
 # सनातनी नाे बध्नाति
 * This verse is selected from the poem "सनातनी नाे बध्नाति".
 
+## Verse 2
+|2020 Sup|
+|-|
+| अशनं भिन्नं वसनं भिन्नम्रू पं भिन्नं रीतिरपि । भिन्नं भाग्यं भिन्नो वर्णः भिन्नं सर्वं भेददृशे ।।२।।|
+| In this verse, the poet talks about how people in India have different ways of living. |
+| They eat different foods, wear different clothes, and follow different customs. |
+| People also have different appearances and ways of life. |
+| Each person's luck and destiny are different too. |
+| Sometimes, things may seem different depending on how someone looks at them. |
+| But the poet explains that despite these differences, India's ancient culture brings everyone together.|
 ## Verse 4
 ||
 |-|
