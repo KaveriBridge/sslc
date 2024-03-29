@@ -40,7 +40,7 @@
 |Himalaya is a sacred mountain for us. |
 |The Ganga flowing in this country is a sacred river for us. |
 |Be it any literature or music of our India, even if the language is different, the message is the same. |
-|So these letters are not separate, but express unity as one.||
+|So these languages are not separate, but express unity as one.||
 
 ## Verse 5
 ||
