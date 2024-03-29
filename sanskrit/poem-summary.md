@@ -25,8 +25,8 @@
 ## Verse 3
 ||
 |-|
-|| परमस्माकं त्वेको देशः परम्परा नस्त्वेकैव ।|
-|| सिद्धिसाधने श्रद्धास्थानम्ध्ये योद्देशौ न तु भिन्नौ ।।३।।||
+|परमस्माकं त्वेको देशः परम्परा नस्त्वेकैव |
+|सिद्धिसाधने श्रद्धास्थानम्ध्ये योद्देशौ न तु भिन्नौ |
 | For us, there is one main place that matters most, not just one tradition.| 
 | When we strive for success, we put our trust in one place.| 
 | But our ultimate goals and the place where we aim for them are not separate or different.| 
