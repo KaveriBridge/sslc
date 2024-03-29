@@ -11,3 +11,15 @@
 |Be it any literature or music of our India, even if the language is different, the message is the same. |
 |So these letters are not separate, but express unity as one.||
 
+## Verse 5
+||
+|-|
+|भारतवासिषु बाह्ये भेदे बहुत्र बहुधा दृष्टेऽपि । |
+|स आन्तरङ्गिकी संस्कृतिरेका सनातनी नाे बध्नाति ।।|
+|In this verse, the poet says that there are so many differences among the people in India.|
+|Although there is a difference in color, language, dress, customs, ideas and ethics, everyone is the same.|
+|Because although there is external difference, the internal culture is the same.|
+|That is the ancient Indian culture.|
+|The same eternal culture is the formula that unites us all |
+
+
