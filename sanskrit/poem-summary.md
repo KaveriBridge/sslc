@@ -58,4 +58,7 @@
 |-|
 |अत उच्चैरुद्घोषः क्रियते नैव च भेदोऽस्त्यस्मासु ।|
 |भारतदेशे जनता सर्वा समा न भेदः कश्चिदपि |
-||
+|Therefore, a proclamation is made loudly,|
+|There is absolutely no difference among us.|
+|In the land of Bharat (India), all the people|
+|Are equal, with no distinctions at all."|
