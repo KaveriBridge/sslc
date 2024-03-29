@@ -21,6 +21,17 @@
 | Each person's luck and destiny are different too. |
 | Sometimes, things may seem different depending on how someone looks at them. |
 | But the poet explains that despite these differences, India's ancient culture brings everyone together.|
+
+## Verse 3
+||
+|-|
+|| परमस्माकं त्वेको देशः परम्परा नस्त्वेकैव ।|
+|| सिद्धिसाधने श्रद्धास्थानम्ध्ये योद्देशौ न तु भिन्नौ ।।३।।||
+| For us, there is one main place that matters most, not just one tradition.| 
+| When we strive for success, we put our trust in one place.| 
+| But our ultimate goals and the place where we aim for them are not separate or different.| 
+|This verse underscores the idea that while traditions and locations may vary, there's a unity in purpose and destination.|
+
 ## Verse 4
 ||
 |-|
