@@ -1,4 +1,4 @@
-|Vibakti|Rama|
+|Vibakthi|Rama|
 |-|-|
 |प्रथमा (Prathama) - Nominative Case: |रामः (Rāmaḥ)
 |द्वितीया (Dvitiya) - Accusative Case: |रामम् (Rāmam)
