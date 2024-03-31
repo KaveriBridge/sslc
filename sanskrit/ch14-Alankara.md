@@ -6,6 +6,14 @@
 |श्लेषालङ्कारः|नानार्थसंश्रयः श्लेषःङ्क|सर्वदो माधवः पायात|
 |अनन्वयालङ्कारः|उपमानोपमेयत्वं यदैकस्यैव वस्तुनः|रामरावणयोर्युद्धं रामरावणयोरिव|
 
+# 0. Figures of Speech
+| Figures of Speech | Definition | Example |
+|------------------|------------|---------|
+| Upamālankāraḥ | Where there is similarity between two things | The face is like the moon, beautiful |
+| Rūpakālankāraḥ | Similarity between the object and what is compared | Lotus-like feet |
+| Śleṣālankāraḥ | Combining various meanings | Madhava drinks everywhere |
+| Ananvayālankāraḥ | Where the comparison between the object and what is compared is not continuous | The battle of Rama and Ravana, like the battle of Rama and Ravana |
+
 # 1. एकवाक्येन उत्तरत ।
 ### 1. अलङ्कारः नाम कः ? (What is Alankara?)
 * येन काव्यस्य सौन्दर्यम्‌ अभिवर्धते सः अलङ्कारः
