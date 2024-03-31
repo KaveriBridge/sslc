@@ -4,10 +4,12 @@
 * Alankara is what enhances the beauty of poetry.
 ### 2. अलङ्कारस्य भेदाै काै ?
 * अलङ्कारस्य भेदाै - **शब्दालङ्कारः अर्थालङ्कारः इति सतः**  ।
+* Types of Figures of Speech - Figures based on Words, Figures based on Meaning, thus say the wise.
 ### 3. शब्दालङ्कारः नाम कः ?
 ### 4. अर्थालङ्कारः नाम कः ?
 ### 5. उपमालङ्कारे कति अंशाः भवन्ति ?
 *  उपमालङ्कार **चत्वारः** अंशाः भवन्ति ।
+* The figure of speech of simile has four components.
 
 # 2. रिक्तस्थानं पूरयत ।
 1. उपमा यत्र ................... उल्लसति द्वयाेः ।
